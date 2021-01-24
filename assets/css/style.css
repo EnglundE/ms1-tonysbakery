@@ -28,35 +28,41 @@ body, html {
   color: white;
 }
 
-.nav-item a {
-    font-size: 100;
+
+
+.tonys-bread {
+    border-radius: 50%;
 }
 
 
 
-.left-picture {
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
-    margin-left: 150px;
-    margin-top: 100px;
-    float: left;
+.blockquote {
+    text-align: center;
+    margin-top: 0px;
     
 }
 
-.right-picture {
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
-    margin-left: 150px;
-    margin-top: 100px;
-    float: left;
-
+.row>* {
+    padding-right: 0;
+    padding-left: 0;
 }
 
-.blockquote {
-    left-align: center;
-    margin-top: 85px;
+.fab {
+    font-size: 50px;
+}
+
+.position-right {
+    text-align: center;
+    border-top: solid 1px;
+    background-color: #000000
+}
+
+.position-right p {
+    color: #fafafa;
+}
+
+.container-fluid {
+    background-color: #b9b9b9;
 }
 
 
