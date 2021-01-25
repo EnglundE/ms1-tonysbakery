@@ -7,11 +7,12 @@ This is the main website for Tony's Bakery. It is designed to be responsible nad
 ## User Experience (UX)
 
   - ## User stories
+  
   - ### First time Visitors Goals
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
-    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
-    3. As a First Time Visitor, I want to look for social media links to check for reviews.
-    4. As a First Time Visitor, I want to check out the opening hours and location.
+   1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+   2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
+   3. As a First Time Visitor, I want to look for social media links to check for reviews.
+   4. As a First Time Visitor, I want to check out the opening hours and location.
   - ### Returning Visitor Goals
    1. As a Returning Visitor, I want to find information about products.
    2. As a Returning Visitor, I want to find information about prices.
