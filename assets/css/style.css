@@ -25,7 +25,7 @@ body, html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: #b9b9b9;
 }
 
 
@@ -54,7 +54,8 @@ body, html {
 .position-right {
     text-align: center;
     border-top: solid 1px;
-    background-color: #000000
+    background-color: rgba(0, 0, 0, 0.8)
+    
 }
 
 .position-right p {
@@ -65,4 +66,22 @@ body, html {
     background-color: #b9b9b9;
 }
 
+nav {
+    
+    padding-top: 40px;
+    margin-right: 40px;
+    
 
+}
+
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fafafa;
+    background-color: #0d6efd;
+}
+
+a.nav-link  {
+color: #b9b9b9;
+}
