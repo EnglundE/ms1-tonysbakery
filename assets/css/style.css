@@ -99,7 +99,7 @@ color: #b9b9b9;
 
 
 .img-fluid {
-    border: solid 1px #a5a1a1;
+    border: solid 1px #b9b9b9;
     border-radius: 10%;
     
 }
@@ -110,5 +110,5 @@ color: #b9b9b9;
 
 
 .height-of-picture {
-    height: 30%;
+    height: 70%;
 }

@@ -6,13 +6,13 @@ This is the main website for Tony's Bakery. It is designed to be responsible nad
 ------------
 ## User Experience (UX)
 
-- ## User stories
+  - ## User stories
   - ### First time Visitors Goals
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
     3. As a First Time Visitor, I want to look for social media links to check for reviews.
     4. As a First Time Visitor, I want to check out the opening hours and location.
-    - ### Returning Visitor Goals
+  - ### Returning Visitor Goals
    1. As a Returning Visitor, I want to find information about products.
    2. As a Returning Visitor, I want to find information about prices.
    3. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
@@ -20,8 +20,51 @@ This is the main website for Tony's Bakery. It is designed to be responsible nad
    1. As a Frequent User, I want to see if there is any changes or updates in products.
    2. As a frequent User, I want to see if there is any changes in opening hours.
 
-  - ## Design
+  * ## Design
+  - ### Colour Scheme
+    * The main colours used are ???
+
+    - ### Typography
+      * The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Exo has a nice feeling with a elegant design.
+
+    - ### Imagery
+     * A large background hero image to catch the user's attention. Gives a clear idea what this page is about.
+
+  * ## Wireframes
+    - Home Page Wireframe - "View"
+    - Mobile Wireframe - "View"
+    - Products wireframe - "View"
+    - Contact wireframe - "View"
+
+## features 
+* Responsive on all device sizes
+* Interactive elements
+
+## Technologies Used 
+### Languages Used
+* HTML5 (link to wikipedia)
+* CSS3 (link to wikipedia)
+
+### Frameworks, Libraries & Programs Used
+1. Bootstrap 5.0.0: (link)
+  - Bootstrap was used for responsivesness and styling of the website.
+2. Google Fonts:
+  - Google fonts were used to import Exo and Roboto font. Exo is used on all pages throughout the project.
+3. Font Awesome: 
+  - Font Awesome was used on all pages to add icons.
+4. JQuery:
+  - JQuery came with Bootstrap to make the navbar responsive.
+5. Git:
+  - Git was used for version control by utilizing Visual Studio Code terminal to commit to Git and Push to GitHub.
+6. Github:
+  - GitHub is used to store the projects code after being pushed from Git.
+7. Balsamiq:
+  - Balsamiq was used to create wireframes during the design process.
+  
    
-         
+## Testing
+ The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
+* W3C Markup Validator - Results (link)
+* W3C CSS Validator - Results (link)
 
 
