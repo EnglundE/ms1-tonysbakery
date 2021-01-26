@@ -18,21 +18,18 @@ body, html {
 
 /* Navigation */
 
-nav {
-    
-    padding-top: 40px;
-    margin-right: 40px;
+
+.navbar {
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-    color: #fafafa;
-    background-color: #0d6efd;
-    margin-bottom: 20px;
-}
 
-a.nav-link  {
-    color: #b9b9b9;
-    }
+
+
+
+
+ 
 
 /* Navigation /*/
 
@@ -68,7 +65,7 @@ a.nav-link  {
     padding-left: 0;
 }
 
-.container-fluid {
+.product-bg {
     background-color: #b9b9b9;
 }
 
@@ -99,13 +96,13 @@ a.nav-link  {
 /* Footer*/
 
 .fab {
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .position-right {
     text-align: center;
     border-top: solid 5px;
-    background-color: rgba(0, 0, 0, 0.8)  
+    background-color: rgba(0, 0, 0,0.8)  
 }
 
 .position-right p {
