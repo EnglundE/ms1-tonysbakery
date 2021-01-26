@@ -8,7 +8,7 @@ body, html {
   
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image.jpg");
   height: 100%;
-  background-position: center;
+  background-position: start;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -37,8 +37,11 @@ body, html {
 }
 
 .navbar-light .navbar-brand {
-    font-weight: 600;
+    font-weight: 500;
     color: #fafafa;
+    margin-right: 0;
+    
+
 }
 .navbar-light .navbar-nav .nav-link {
     Color: #fafafa;
@@ -52,11 +55,6 @@ body, html {
     text-decoration: underline;
     color: #007bff !important;
 }
-
-
-
-
-
 
 
 /* Navigation /*/
@@ -116,7 +114,7 @@ body, html {
 }
 
 .badge {
-    margin-right: 5px;
+    margin-left: 5px;
     }
     
 
@@ -167,7 +165,20 @@ body, html {
 .position-right {
     text-align: center;
     border-top: solid 5px;
-    background-color: rgba(0, 0, 0,0.5)  
+    background-color: rgba(0, 0, 0,0.8)  
+    
+}
+
+.fa-facebook-square {
+    padding-right: 5px;
+}
+
+.fa-instagram-square {
+padding: 0 5px 0 5px;
+}
+
+.fa-twitter-square {
+    padding: 0 5px 0 5px;
 }
 
 .position-right p {
@@ -175,4 +186,3 @@ body, html {
 }
 
 
-/* Footer /*/
