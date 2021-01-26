@@ -25,11 +25,39 @@ body, html {
 }
 
 
+.bg-color-nav {
+    background-color: rgba(0, 0, 0,0.8)  
+    
+}
+
+.nav-link {
+    font-weight: 600;
+    
+    
+}
+
+.navbar-light .navbar-brand {
+    font-weight: 600;
+    color: #fafafa;
+}
+.navbar-light .navbar-nav .nav-link {
+    Color: #fafafa;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: #fafafa;
+}
+
+.active {
+    text-decoration: underline;
+    color: #007bff !important;
+}
 
 
 
 
- 
+
+
 
 /* Navigation /*/
 
@@ -80,6 +108,7 @@ body, html {
 
 .padding {
     padding: 10px;
+    
 }
 
 .height-of-picture {
@@ -93,6 +122,42 @@ body, html {
 
 /* Product website /*/
 
+/* Opening hours etc*/
+.col-12 h3 {
+    Text-align: center;
+    border-bottom: solid 2px rgba(0, 0, 0,0.5);
+    border-top: solid 2px rgba(0, 0, 0,0.5);
+    margin-bottom: 0;
+}
+
+.bg-color-google {
+    background-color: #b9b9b9;
+}
+
+
+/* Opening hours etc  /*/
+
+/* Google maps / from mdbootstrap.com */
+
+.map-container {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 100%;
+    width: 100%;
+   Margin-top: 0;
+    }
+    
+.map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+/* Google maps /*/ 
+
 /* Footer*/
 
 .fab {
@@ -102,7 +167,7 @@ body, html {
 .position-right {
     text-align: center;
     border-top: solid 5px;
-    background-color: rgba(0, 0, 0,0.8)  
+    background-color: rgba(0, 0, 0,0.5)  
 }
 
 .position-right p {
