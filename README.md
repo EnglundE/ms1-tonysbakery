@@ -9,21 +9,25 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
   - ## User stories
   
   - ### First time Visitors Goals
-    a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
 
-    b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
 
-    c. As a First Time Visitor, I want to look for social media links to check for reviews.
+    3. As a First Time Visitor, I want to look for social media links to check for reviews.
 
-    d. As a First Time Visitor, I want to check out the opening hours and location.
-    
+    4. As a First Time Visitor, I want to check out the opening hours and location.
+
   - ### Returning Visitor Goals
-   a. As a Returning Visitor, I want to find information about products.
-   b. As a Returning Visitor, I want to find information about prices.
-   c. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
+    1. As a Returning Visitor, I want to find information about products.
+
+    2. As a Returning Visitor, I want to find information about prices.
+
+    3. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
+
   - ### Frequent User Goals
-   a. As a Frequent User, I want to see if there is any changes or updates in products.
-   b. As a frequent User, I want to double check or if there is any changes in opening hours.
+    1. As a Frequent User, I want to see if there is any changes or updates in products.
+
+    2. As a frequent User, I want to double check or if there is any changes in opening hours.
 
   * ## Design
 
@@ -78,12 +82,18 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
 ### Testing of User Stories from the User Experience (UX) Section
 
 - #### First time Visitors Goals
-1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
 
-  - a. When entering the site for the first time, there is an clean and easy to read navigation bar to go to the page of their choice. There is also a header in the naivagion section with the title of the website/Company that basically explains what the site is about.
-  - b. The main points of the website is also made with the big hero image with the text "Bread made with only Flour, Water and Love" together with the header in the navigation bar.
-  - c. The user can get to the social media links in the bottom of each page
-  - d. The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
+   1. When entering the site for the first time, there is an clean and easy to read navigation bar to go to the page of their choice. There is also a header in the naivagion section with the title of the website/Company that basically explains what the site is about.
+
+   2. The main points of the website is also made with the big hero image with the text "Bread made with only Flour, Water and Love" together with the header in the navigation bar.
+
+   3. To learn more about the company the user can use the navigation bar to get to the about page where information can be found.
+
+   4. The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
+
+- #### First time Visitors Goals
+2. 
 
 
 
