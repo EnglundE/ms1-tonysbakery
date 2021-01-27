@@ -22,6 +22,7 @@ This is the main website for Tony's Bakery. It is designed to be responsible nad
    2. As a frequent User, I want to see if there is any changes in opening hours.
 
   * ## Design
+
   - ### Colour Scheme
     * The main colours used are ???
 
@@ -29,7 +30,7 @@ This is the main website for Tony's Bakery. It is designed to be responsible nad
       * The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Exo has a nice feeling with a elegant design.
 
     - ### Imagery
-     * A large background hero image to catch the user's attention. Gives a clear idea what this page is about.
+      * A large background hero image to catch the user's attention. Gives a clear idea what this page is about.
 
   * ## Wireframes
     - Home Page Wireframe - "View"
