@@ -82,7 +82,7 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
 ### Testing of User Stories from the User Experience (UX) Section
 
 - #### First time Visitors Goals
-a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+  a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
 
    1. When entering the site for the first time, there is an clean and easy to read navigation bar to go to the page of their choice. There is also a header in the naivagion section with the title of the website/Company that basically explains what the site is about.
 
