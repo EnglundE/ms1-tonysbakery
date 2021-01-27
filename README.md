@@ -9,10 +9,10 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
   - ## User stories
   
   - ### First time Visitors Goals
-   a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
-   b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
-   c. As a First Time Visitor, I want to look for social media links to check for reviews.
-   d. As a First Time Visitor, I want to check out the opening hours and location.
+    a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+    b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
+    c. As a First Time Visitor, I want to look for social media links to check for reviews.
+    d. As a First Time Visitor, I want to check out the opening hours and location.
   - ### Returning Visitor Goals
    a. As a Returning Visitor, I want to find information about products.
    b. As a Returning Visitor, I want to find information about prices.
@@ -81,6 +81,6 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
   - c. The user can get to the social media links in the bottom of each page
   - d. The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
 
-  
+
 
 
