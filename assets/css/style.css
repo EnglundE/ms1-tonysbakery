@@ -116,6 +116,16 @@ body, html {
 .badge {
     margin-left: 5px;
     }
+
+    .pre-products {
+        border-bottom: solid 1px black;
+        padding-top: 5px; 
+        text-align: center;   
+    }
+
+    
+
+
     
 
 /* Product website /*/
