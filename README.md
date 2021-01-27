@@ -10,9 +10,13 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
   
   - ### First time Visitors Goals
     a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+
     b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
+
     c. As a First Time Visitor, I want to look for social media links to check for reviews.
+
     d. As a First Time Visitor, I want to check out the opening hours and location.
+    
   - ### Returning Visitor Goals
    a. As a Returning Visitor, I want to find information about products.
    b. As a Returning Visitor, I want to find information about prices.
