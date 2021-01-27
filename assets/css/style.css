@@ -3,7 +3,7 @@ body, html {
     font-family: 'Exo', sans-serif;
 }
 
-/* The hero image */
+/* The hero image credit to our friends at w3schools: https://www.w3schools.com/howto/howto_css_hero_image.asp */
 .hero-image {
   
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image.jpg");
@@ -59,7 +59,7 @@ body, html {
 
 /* Navigation /*/
 
-/* Hero image text */
+/* Hero image text credit to our friends at w3schools: https://www.w3schools.com/howto/howto_css_hero_image.asp */
 .hero-text {
   text-align: center;
   position: absolute;
@@ -67,7 +67,11 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: #b9b9b9;
+
 }
+
+
+
 
 /* Hero image text /*/
 
@@ -155,7 +159,7 @@ body, html {
 
 /* Opening hours etc  /*/
 
-/* Google maps / from mdbootstrap.com */
+/* <!-- Google maps credit to mdbootstrap: https://mdbootstrap.com/docs/b4/jquery/javascript/google-maps/--> */
 
 .map-container {
     overflow: hidden;
