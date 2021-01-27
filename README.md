@@ -92,8 +92,21 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
 
    4. The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
 
-- #### First time Visitors Goals
-2. 
+   b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
+
+   1. The the top of each page there is a clean navigation bar with a link describing what page they ends up on.
+
+   2. Each page got the navigation bar located at the same place and with same design to make it easy to find back to it for further navigation. The navigation bar will also show on which page you are on right now.
+
+   c. As a First Time Visitor, I want to look for social media links to check for reviews.
+
+   1. On each page, the social media links will be in the bottom of the page with a clear title and proper icon for which social media you is taken to. This This in a stand up blue colour
+
+   d. As a First Time Visitor, I want to check out the opening hours and location.
+
+   1. 
+
+    
 
 
 
