@@ -76,7 +76,7 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
    
 ## Testing
  The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
-* [W3C Markup Validator] - Results (https://validator.w3.org/)
+* [W3C Markup Validator - Results](https://validator.w3.org/)
 * W3C CSS Validator - Results (link)
 
 ### Testing of User Stories from the User Experience (UX) Section
