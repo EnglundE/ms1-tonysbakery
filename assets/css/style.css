@@ -142,6 +142,16 @@ body, html {
     background-color: #b9b9b9;
 }
 
+.margin-top {
+    margin-top: 50px;
+    font-size: large;
+}
+
+.text-align {
+    text-align: end;
+}
+
+
 
 /* Opening hours etc  /*/
 
