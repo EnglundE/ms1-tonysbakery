@@ -208,7 +208,7 @@ padding: 0 5px 0 5px;
     Text-align: center;
 }
 
-.black-bar {
+.black-bar-about {
     border-bottom: solid 3px rgba(0, 0, 0,0.8);
     max-width: 300px;
     text-align: center;
@@ -246,6 +246,32 @@ h4 {
 .heading-position-contact {
     text-align: center;
 }
+
+
+.contact-bg-color {
+    background-color: #b9b9b9;
+}
+
+.black-bar-contact {
+    border-bottom: solid 3px rgba(0, 0, 0,0.8);
+    max-width: 300px;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.contact-info {
+max-width: 600px;
+}
+
+.feedback-form {
+    max-width: 600px;  
+}
+
+
+
+
 
 
 
