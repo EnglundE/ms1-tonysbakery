@@ -41,14 +41,14 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
       * A large background hero image to catch the user's attention. Gives a clear idea what this page is about.
 
   * ## Wireframes
-    - Home Page Wireframe - "View"
-    - Mobile Wireframe - "View"
-    - Products wireframe - "View"
-    - Contact wireframe - "View"
+    - Home Page Wireframe - [View](URL)
+    - Mobile Wireframe - [View](URL)
+    - Products wireframe - [View](URL)
+    - Contact wireframe - [View](URL)
 
 ## features 
 * Responsive on all device sizes
-* Interactive elements
+
 
 ## Technologies Used 
 ### Languages Used
