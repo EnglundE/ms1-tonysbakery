@@ -204,7 +204,7 @@ padding: 0 5px 0 5px;
 }
 
 /* About page */
-.col-12 h1 {
+.heading-position-about {
     Text-align: center;
 }
 
@@ -240,4 +240,14 @@ h4 {
 
 /* About page / */
 
+
+/* Contact page */
+
+.heading-position-contact {
+    text-align: center;
+}
+
+
+
+/* Contact page  /*/
 
