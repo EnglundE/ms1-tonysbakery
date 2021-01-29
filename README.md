@@ -104,7 +104,7 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
 
    d. As a First Time Visitor, I want to check out the opening hours and location.
 
-   1. 
+   1. The user got two options to find opening hours and location. In the bottom of the main page there is address written and also a google map below that with the address pinned. The other option is on the contact page, there is the address written again with an anchor link that takes the user to the address on google maps in a new tab.
 
     
 
