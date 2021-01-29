@@ -8,6 +8,7 @@ body, html {
 
 .hero-image {
   /* Credit  for picture from Maria Perez via Pexels: https://www.pexels.com/sv-se/foto/bakad-bakverk-blandad-brod-2128535/ */
+  /* credit to our friends at w3schools for the Hero-image + hero text with styling: https://www.w3schools.com/howto/howto_css_hero_image.asp /*/
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image.jpg");
   height: 100%;
   background-repeat: no-repeat;
