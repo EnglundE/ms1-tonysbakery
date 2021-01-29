@@ -3,7 +3,7 @@ body, html {
     font-family: 'Exo', sans-serif;
 }
 
-/* Credit to our friends at w3schools for the hero image code/CSS: https://www.w3schools.com/howto/howto_css_hero_image.asp */
+
 
 
 .hero-image {
@@ -103,7 +103,7 @@ body, html {
 
 /* Blockquotes /*/
 
-/* Products website*/
+/* Products page*/
 
 .product-images {
     border: solid 1px #b9b9b9;
@@ -126,10 +126,12 @@ body, html {
 .pre-products {
     border-bottom: solid 1px rgba(0, 0, 0,0.5);
     padding-top: 25px; 
-    text-align: center;   
+    text-align: center; 
     }
 
-/* Product website /*/
+
+
+/* Product page /*/
 
 /* Opening hours etc*/
 .col-12 h3 {
