@@ -73,7 +73,7 @@ body, html {
 }
 
 .quote-bg {
-    background-color: #e1e8e8;
+    background-color: #fafafa;
 }
 
 .blockquote {
@@ -94,7 +94,7 @@ body, html {
     text-align: center;
     border-bottom: solid 2px rgba(0, 0, 0, 0.5);
     border-top: solid 2px rgba(0, 0, 0, 0.5);
-    background-color: #e1e8e8;
+    background-color: #fafafa;
 }
 
 .margin-top {
@@ -137,7 +137,7 @@ body, html {
     border-bottom: solid 1px rgba(0, 0, 0,0.5);
     padding-top: 25px; 
     text-align: center;
-    background-color: #e1e8e8;
+    background-color: #fafafa;
 }
 
 /* Our products section  /*/
@@ -188,7 +188,7 @@ body, html {
 /* Modals */
 
 .modal-body {
-    background-color: #e1e8e8;
+    background-color: #fafafa;
 }
 
 .modal-header {
@@ -207,7 +207,7 @@ body, html {
 
 /* Section background */
 .bg-color {
-    background-color: #e1e8e8;
+    background-color: #fafafa;
 }
 
 /* Section background  /*/
@@ -262,7 +262,7 @@ h4 {
 /* About picture  /*/
 
 .about-bg-color {
-    background-color: #e1e8e8;
+    background-color: #fafafa;
 }
 
 /* About page / */
