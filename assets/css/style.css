@@ -3,48 +3,27 @@ body, html {
     font-family: 'Exo', sans-serif;
 }
 
-
-
-
-.hero-image {
-  /* Credit  for picture from Maria Perez via Pexels: https://www.pexels.com/sv-se/foto/bakad-bakverk-blandad-brod-2128535/ */
-  /* credit to our friends at w3schools for the Hero-image + hero text with styling: https://www.w3schools.com/howto/howto_css_hero_image.asp /*/
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image.jpg");
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  border-bottom: solid 5px;
-}
-/* The hero image /*/
-
 /* Navigation */
-
 
 .navbar {
     padding-bottom: 20px;
     padding-top: 20px;
 }
 
-
 .bg-color-nav {
     background-color: rgba(0, 0, 0,0.8)  
-    
 }
 
 .nav-link {
     font-weight: 600;
-    
-    
 }
 
 .navbar-light .navbar-brand {
     font-weight: 500;
     color: #fafafa;
     margin-right: 0;
-    
-
 }
+
 .navbar-light .navbar-nav .nav-link {
     Color: #fafafa;
 }
@@ -58,10 +37,23 @@ body, html {
     color: #007bff !important;
 }
 
+/* Navigation  /*/
 
-/* Navigation /*/
 
-/* Hero image text credit to our friends at w3schools: https://www.w3schools.com/howto/howto_css_hero_image.asp */
+/* Home page */
+/* The hero image + hero text */
+
+/* Credit  for picture from Maria Perez via Pexels: https://www.pexels.com/sv-se/foto/bakad-bakverk-blandad-brod-2128535/ */
+/* credit to our friends at w3schools for the Hero-image + hero text with styling: https://www.w3schools.com/howto/howto_css_hero_image.asp /*/
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/hero-image.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  border-bottom: solid 5px;
+}
+
 .hero-text {
   text-align: center;
   position: absolute;
@@ -69,15 +61,11 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: #b9b9b9;
-
 }
 
+/* The hero image + hero text  /*/
 
-
-
-/* Hero image text /*/
-
-/* Blockquotes*/
+/* Blockquotes */
 
 .tonys-bread {
     border-radius: 50%;
@@ -91,7 +79,6 @@ body, html {
 .blockquote {
     text-align: center;
     margin-top: 0px;
-    
 }
 
 .row>* {
@@ -99,91 +86,15 @@ body, html {
     padding-left: 0;
 }
 
-/* Blockquotes /*/
+/* Blockquotes  /*/
 
-/* Products page*/
+/* Opening hours and address */
 
-
-
-.modal-body {
-    background-color: #e1e8e8;
-}
-
-.modal-header {
-    background-color: rgba(0, 0, 0,0.8);
-}
-
-.modal-title {
-    color: #fafafa;
-}
-
-.modal-footer {
-    background-color: rgba(0, 0, 0,0.8);
-}
-
-.product-images {
-    border-radius: 10%; 
-}
-
-.padding {
-    padding: 10px;
-    
-}
-
-.height-of-picture {
-    height: 70%;
-}
-
-.badge {
-    margin-left: 5px;
-    }
-
-.pre-products {
-    border-bottom: solid 1px rgba(0, 0, 0,0.5);
-    padding-top: 25px; 
+.find-us {
     text-align: center;
+    border-bottom: solid 2px rgba(0, 0, 0, 0.5);
+    border-top: solid 2px rgba(0, 0, 0, 0.5);
     background-color: #e1e8e8;
-    }
-
-
-    /*Created with help from Stackoverflow: https://stackoverflow.com/questions/5817233/align-button-at-the-bottom-of-div-using-css /*/
-    .btn-info {
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        margin-left: 10px;
-        
-    }
-
-    .space-below {
-        margin-bottom: 10px;
-    }
-
-    .padding-bottom {
-        padding-bottom: 25px;
-    }
-        
-.bg-color {
-    background-color: #e1e8e8;
-}
-    
-    
-}
-
-
-/* Product page /*/
-
-/* Opening hours etc*/
-.col-12 h3 {
-    Text-align: center;
-    border-bottom: solid 2px rgba(0, 0, 0,0.5);
-    border-top: solid 2px rgba(0, 0, 0,0.5);
-    margin-bottom: 0;
-}
-
-.bg-color-google {
-    background-color: #e1e8e8;
-    border-top: solid 2px rgba(0, 0, 0,0.5);
 }
 
 .margin-top {
@@ -191,16 +102,11 @@ body, html {
     font-size: large;
 }
 
-.text-align {
-    text-align: end;
-}
+/* Opening hours and address  /*/
 
+/* Google maps */
 
-
-/* Opening hours etc  /*/
-
-/* <!-- Google maps credit to mdbootstrap: https://mdbootstrap.com/docs/b4/jquery/javascript/google-maps/--> */
-
+/* Google maps credit to mdbootstrap: https://mdbootstrap.com/docs/b4/jquery/javascript/google-maps/  */
 .map-container {
     overflow: hidden;
     padding-bottom: 56.25%;
@@ -219,8 +125,191 @@ body, html {
     }
 
 /* Google maps /*/ 
+/* Home page  /*/
 
-/* Footer*/
+
+
+/* Products page*/
+
+/* Our products section */
+
+.pre-products {
+    border-bottom: solid 1px rgba(0, 0, 0,0.5);
+    padding-top: 25px; 
+    text-align: center;
+    background-color: #e1e8e8;
+}
+
+/* Our products section  /*/
+
+/* Product pictures */
+
+.product-images {
+    border-radius: 10%; 
+}
+
+.height-of-picture {
+    height: 70%;
+}
+
+/* Product pictures  /*/
+
+/* product description */
+
+.product-description {
+    padding-bottom: 25px;
+}
+
+/* Product description  /*/
+
+/* Product badges */
+
+.badge {
+    margin-left: 5px;
+}
+
+/* Product badges  /*/
+
+/* Product buttons */
+/*Created with help from Stackoverflow: https://stackoverflow.com/questions/5817233/align-button-at-the-bottom-of-div-using-css /*/
+.btn-info {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin-left: 10px; 
+}
+
+.space-below {
+    margin-bottom: 10px;
+}
+
+/* Product buttons  /*/
+
+/* Modals */
+
+.modal-body {
+    background-color: #e1e8e8;
+}
+
+.modal-header {
+    background-color: rgba(0, 0, 0,0.8);
+}
+
+.modal-title {
+    color: #fafafa;
+}
+
+.modal-footer {
+    background-color: rgba(0, 0, 0,0.8);
+}
+
+/* Modals  /*/
+
+/* Section background */
+.bg-color {
+    background-color: #e1e8e8;
+}
+
+/* Section background  /*/
+
+.padding {
+    padding: 10px;  
+}
+        
+/* Product page /*/
+
+
+
+/* About page */
+
+/* Heading */
+
+.heading-position-about {
+    Text-align: center;
+}
+
+.black-bar-about {
+    border-bottom: solid 3px rgba(0, 0, 0,0.8);
+    max-width: 300px;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* Heading /*/
+
+/* About info section */
+
+.about-info {
+    max-width: 600px;
+}
+
+h4 {
+    text-align: left;
+}
+
+/* About info section  /*/
+
+/* About picture */
+
+.about-picture {
+    margin-bottom: 25px;
+    border: solid 2px rgba(0, 0, 0,0.8);
+    border-radius: 10%;
+}
+
+/* About picture  /*/
+
+.about-bg-color {
+    background-color: #e1e8e8;
+}
+
+/* About page / */
+
+
+/* Contact page */
+
+/* Header */
+
+.heading-position-contact {
+    text-align: center;
+}
+
+.black-bar-contact {
+    border-bottom: solid 3px rgba(0, 0, 0,0.8);
+    max-width: 300px;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* Header  /*/
+
+/* Contact info */
+
+.contact-info {
+max-width: 600px;
+}
+
+/* Contact info  /*/
+
+/* Feedback form */
+
+.feedback-form {
+    max-width: 600px;  
+}
+
+/* Feedback form  /*/
+
+.contact-bg-color {
+    background-color: #b9b9b9;
+}
+
+/* Contact page  /*/
+
+/* Footer */
 
 .fab {
     font-size: 20px;
@@ -249,77 +338,4 @@ padding: 0 5px 0 5px;
     color: #fafafa;
 }
 
-/* About page */
-.heading-position-about {
-    Text-align: center;
-}
-
-.black-bar-about {
-    border-bottom: solid 3px rgba(0, 0, 0,0.8);
-    max-width: 300px;
-    text-align: center;
-    margin-bottom: 50px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-.about-info {
-    max-width: 600px;
-}
-
-h4 {
-    text-align: left;
-}
-
-.about-picture {
-    margin-bottom: 25px;
-    border: solid 2px rgba(0, 0, 0,0.8);
-    border-radius: 10%;
-    
-}
-
-.about-bg-color {
-    background-color: #e1e8e8;
-}
-
-
-
-/* About page / */
-
-
-/* Contact page */
-
-.heading-position-contact {
-    text-align: center;
-}
-
-
-.contact-bg-color {
-    background-color: #b9b9b9;
-}
-
-.black-bar-contact {
-    border-bottom: solid 3px rgba(0, 0, 0,0.8);
-    max-width: 300px;
-    text-align: center;
-    margin-bottom: 50px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-.contact-info {
-max-width: 600px;
-}
-
-.feedback-form {
-    max-width: 600px;  
-}
-
-
-
-
-
-
-
-/* Contact page  /*/
-
+/* Footer  /*/
