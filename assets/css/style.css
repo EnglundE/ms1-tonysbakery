@@ -129,7 +129,26 @@ body, html {
     text-align: center; 
     }
 
+    .btn {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        margin-left: 10px;
+        
+    }
+
+    .space-below {
+        margin-bottom: 10px;
+    }
+
+    .padding-bottom {
+padding-bottom: 25px;
+    }
+        
     
+    
+    
+}
 
 
 /* Product page /*/
