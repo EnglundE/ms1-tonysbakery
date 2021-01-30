@@ -32,6 +32,15 @@ body, html {
     border-color: #fafafa;
 }
 
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.1rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
 .active {
     text-decoration: underline;
     color: #007bff !important;
