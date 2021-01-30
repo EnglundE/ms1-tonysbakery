@@ -57,7 +57,7 @@
 
 
 
-    <div class="container-fluid pre-products product-bg">
+    <div class="container-fluid pre-products">
         <div class="row">
             <div class="col-12">
                 <h1>Our Products</h1>
@@ -68,202 +68,578 @@
         </div>
     </div>
 
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Pixabay at Pexels: https://www.pexels.com/sv-se/foto/bakverk-brod-farsk-hander-263168/  -->
-                <img src="assets/images/first-image.jpg" class="img-fluid product-images" alt="picture of bread">
+    <section class="bg-color">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Pixabay at Pexels: https://www.pexels.com/sv-se/foto/bakverk-brod-farsk-hander-263168/  -->
+                    <img src="assets/images/first-image.jpg" class="img-fluid product-images" alt="picture of bread">
 
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 4</p>
-                    <p class="padding-bottom">A Stockholm Levain, really fluffy and a good every day bread.</p>
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 4</p>
+                        <p class="padding-bottom">Stockholm Levain, really fluffy and a good every day bread.</p>
+                    </div>
+                    <!-- Modal button - Modal -->
+                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#staticBackdrop">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropLabel">Stockholm Levain</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>The best thing about this bread is that it is tough, juicy, sour and quite salty.
+                                    </p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
                 </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
 
 
 
-            <div class="col-sm-3 padding">
-                <!-- Credit for picture from Bruno Thethe on Pexels: https://www.pexels.com/sv-se/foto/brod-mat-bageri-mjol-1755785/ -->
-                <img src="assets/images/product-image.jpg" class="img-fluid product-images" alt="picture of bread">
+                <div class="col-sm-3 padding">
+                    <!-- Credit for picture from Bruno Thethe on Pexels: https://www.pexels.com/sv-se/foto/brod-mat-bageri-mjol-1755785/ -->
+                    <img src="assets/images/product-image.jpg" class="img-fluid product-images" alt="picture of bread">
 
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 2</p>
-                    <p class="padding-bottom">A fluffy sourdough bread perfect to toast for the weekend.</p>
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 2</p>
+                        <p class="padding-bottom">A fluffy sourdough bread perfect to toast for the weekend.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#staticBackdroptwo">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdroptwo" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdroptwoLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdroptwoLabel">Cold yeast sourdough bread</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A kneed free bread cold yeasted in refrigerator overnight.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
                 </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Pixabay at pexels: https://www.pexels.com/sv-se/foto/baka-bakad-bakverk-brod-209196/ -->
+                    <img src="assets/images/bread-first.jpg" class="img-fluid product-images" alt="picture of bread">
 
-            </div>
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Pixabay at pexels: https://www.pexels.com/sv-se/foto/baka-bakad-bakverk-brod-209196/ -->
-                <img src="assets/images/bread-first.jpg" class="img-fluid product-images" alt="picture of bread">
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 1.50</p>
+                        <p class="padding-bottom">A loaf with rye flour and saisins, a good morning bread.</p>
+                    </div>
 
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 1.50</p>
-                    <p class="padding-bottom">A loaf with rye flour and saisins, a good morning bread.</p>
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#staticBackdropthree">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropthree" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropthreeLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropthreeLabel">Kneed free wholemeal bread
+                                    </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A kneed free wholemeal bread.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Rye flour <br>
+                                        Whole grain flour <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Modal button - Modal /-->
+
                 </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Pizabay at pexel: https://www.pexels.com/sv-se/foto/bakverk-brod-limpor-mat-209194/ -->
+                    <img src="assets/images/third-image.jpg" class="img-fluid product-images" alt="picture of bread">
 
-            </div>
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Pizabay at pexel: https://www.pexels.com/sv-se/foto/bakverk-brod-limpor-mat-209194/ -->
-                <img src="assets/images/third-image.jpg" class="img-fluid product-images" alt="picture of bread">
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 3</p>
+                        <p class="padding-bottom">Sourdough loafs with nuts and seeds to enjoy with friends.</p>
+                    </div>
 
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 3</p>
-                    <p class="padding-bottom">Sourdough loafs with nuts and seeds to enjoy with friends.</p>
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#staticBackdropfour">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropfour" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropfourLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropfourLabel">Sourdough bread with walnuts
+                                        and
+                                        seeds</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Same base as our Stockholm Levain with addded walnuts and seeds.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Walnuts <br>
+                                        Seeds <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
                 </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Macau Photo Agency at unsplash: https://unsplash.com/photos/Wii8pkMpEQk -->
-                <img src="assets/images/another-bread.jpg" class="img-fluid product-images" alt="picture of bread">
-
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 5</p>
-                    <p class="padding-bottom">A luxury pot bread made to surprice the whole family.</p>
-                </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Macau Photo Agency at unsplash: https://unsplash.com/photos/l6_Yyfl3O8s -->
-                <img src="assets/images/fifth-bread.jpg" class="img-fluid product-images" alt="picture of bread">
-
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 3</p>
-                    <p class="padding-bottom">A sourdough pot bread baked longer for extra crust and taste.</p>
-                </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Macau Photo Agency at unsplash: https://unsplash.com/photos/kXiaeeleD8U -->
-                <img src="assets/images/sixth-image.jpg" class="img-fluid product-images" alt="picture of bread">
-
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 4</p>
-                    <p class="padding-bottom">Our most popular bread, plain levain with a lot of taste.</p>
-                </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Artur Rutkowski at unsplash: https://unsplash.com/photos/h2CPeqTzaaY -->
-                <img src="assets/images/image-seven.jpg" class="img-fluid product-images" alt="picture of bread">
-
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 4</p>
-                    <p class="padding-bottom">Our darkest bread baked longer and with more rye flour.</p>
-                </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
-        </div>
-    </div>
-
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Anton at unsplash: https://unsplash.com/photos/mJ2vG6C1JmQ -->
-                <img src="assets/images/image-eight.jpg" class="img-fluid product-images" alt="picture of bread">
-
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 1.5</p>
-                    <p class="padding-bottom">A pot bread baked with graham flour to make it heavy.</p>
-                </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info space-below" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Irina Babina at unsplash: https://unsplash.com/photos/Aop_-stOpnM -->
-                <img src="assets/images/image-nine.jpg" class="img-fluid product-images" alt="picture of bread">
-
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 2</p>
-                    <p class="padding-bottom">The perfect loaf for the whole family to enjoy every day.</p>
-                </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info space-below" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from MissMushroom at unsplah: https://unsplash.com/photos/wIm4CDia_1s -->
-                <img src="assets/images/image-ten.jpg" class="img-fluid product-images" alt="picture of bread">
-
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 5</p>
-                    <p class="padding-bottom">A round shaped Stockholm Levain. Kids usually like this bread.</p>
-                </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info space-below" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
-            </div>
-            <div class="col-sm-3 padding">
-                <!--Credit for picture from Sergio Arze at unsplash: https://unsplash.com/photos/wJLGRhZsn5w -->
-                <img src="assets/images/image-eleven.jpg" class="img-fluid product-images" alt="picture of bread">
-
-                <div>
-                    <p><i class="fas fa-euro-sign"></i> 3</p>
-                    <p class="padding-bottom">Our newest member of our bread family, delicious.</p>
-                </div>
-                <!-- Modal button -->
-                <button type="button" class="btn btn-info space-below" data-toggle="modal" data-target="#exampleModal">
-                    More info
-                </button>
-                <!-- Modal button /-->
-
             </div>
         </div>
-    </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Macau Photo Agency at unsplash: https://unsplash.com/photos/Wii8pkMpEQk -->
+                    <img src="assets/images/another-bread.jpg" class="img-fluid product-images" alt="picture of bread">
+
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 5</p>
+                        <p class="padding-bottom">A luxury pot bread made to surprice the whole family.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#staticBackdropfive">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropfive" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropfiveLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropfiveLabel">Apple bread with roasted
+                                        walnuts
+                                    </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A perfect autumn bread, goes well together with different soups.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Apple <br>
+                                        Rye flour <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
+                </div>
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Macau Photo Agency at unsplash: https://unsplash.com/photos/l6_Yyfl3O8s -->
+                    <img src="assets/images/fifth-bread.jpg" class="img-fluid product-images" alt="picture of bread">
+
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 3</p>
+                        <p class="padding-bottom">A sourdough pot bread baked longer for extra crust and taste.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#staticBackdropsix">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropsix" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropsixLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropsixLabel">Sourdough bread baked in a pot
+                                    </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A basic sourdough bread baked in a pot for the round shape with a nice crust.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Rye flour <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
+                </div>
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Macau Photo Agency at unsplash: https://unsplash.com/photos/kXiaeeleD8U -->
+                    <img src="assets/images/sixth-image.jpg" class="img-fluid product-images" alt="picture of bread">
+
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 4</p>
+                        <p class="padding-bottom">Our most popular bread, plain levain with a lot of taste.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#staticBackdropseven">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropseven" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropsevenLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropsevenLabel">Sourdough bread with
+                                        roasted oats</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A very juicy and sustainable bread baked in a pot.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Toasted oats <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
+                </div>
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Artur Rutkowski at unsplash: https://unsplash.com/photos/h2CPeqTzaaY -->
+                    <img src="assets/images/image-seven.jpg" class="img-fluid product-images" alt="picture of bread">
+
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 4</p>
+                        <p class="padding-bottom">Our darkest bread baked longer and with more rye flour.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#staticBackdropeight">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropeight" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropeightLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropeightLabel">Finnish Rye bread</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A heavier finnish bread with alot of taste.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Youghurt <br>
+                                        Rye flour <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Anton at unsplash: https://unsplash.com/photos/mJ2vG6C1JmQ -->
+                    <img src="assets/images/image-eight.jpg" class="img-fluid product-images" alt="picture of bread">
+
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 1.5</p>
+                        <p class="padding-bottom">A pot bread baked with graham flour to make it heavy.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info space-below" data-toggle="modal"
+                        data-target="#staticBackdropnine">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropnine" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropnineLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropnineLabel">Graham sourdough bread</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A higher amount of graham flour to get that special taste graham has.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Graham flour <br>
+                                        Wheat flour <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
+                </div>
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Irina Babina at unsplash: https://unsplash.com/photos/Aop_-stOpnM -->
+                    <img src="assets/images/image-nine.jpg" class="img-fluid product-images" alt="picture of bread">
+
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 2</p>
+                        <p class="padding-bottom">The perfect loaf for the whole family to enjoy every day.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info space-below" data-toggle="modal"
+                        data-target="#staticBackdropten">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropten" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdroptenLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdroptenLabel">Sesame seed sourdough bread</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A bread made with both rye flour and wheat flour together with sesame seeds</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Rye flour <br>
+                                        Sesame seeds <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
+                </div>
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from MissMushroom at unsplah: https://unsplash.com/photos/wIm4CDia_1s -->
+                    <img src="assets/images/image-ten.jpg" class="img-fluid product-images" alt="picture of bread">
+
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 5</p>
+                        <p class="padding-bottom">A round shaped Stockholm Levain. Kids usually like this bread.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info space-below" data-toggle="modal"
+                        data-target="#staticBackdropeleven">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdropeleven" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdropelevenLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropelevenLabel">Round shaped Stockholm levain
+                                    </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Childrens favorite bread, a Stockholm levain made in a round shape.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
+                </div>
+                <div class="col-sm-3 padding">
+                    <!--Credit for picture from Sergio Arze at unsplash: https://unsplash.com/photos/wJLGRhZsn5w -->
+                    <img src="assets/images/image-eleven.jpg" class="img-fluid product-images" alt="picture of bread">
+
+                    <div>
+                        <p><i class="fas fa-euro-sign"></i> 3</p>
+                        <p class="padding-bottom">Our newest member of our bread family, delicious.</p>
+                    </div>
+
+                    <!-- Modal button - Modal -->
+
+                    <button type="button" class="btn btn-info space-below" data-toggle="modal"
+                        data-target="#staticBackdroptwelve">
+                        More info
+                    </button>
+                    <div class="modal fade" id="staticBackdroptwelve" data-backdrop="static" data-keyboard="false"
+                        tabindex="-1" aria-labelledby="staticBackdroptwelveLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdroptwelveLabel">Rye, sesmame and oats bread
+                                    </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>A bread with alot more ingredients than the others, alot of taste.</p>
+                                    <p>Ingredients: <br>
+                                        Water <br>
+                                        Wheat flour <br>
+                                        Rye flour <br>
+                                        Sesame seeds <br>
+                                        Roasted oats <br>
+                                        Salt
+                                    </p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary"
+                                        data-dismiss="modal">Understood</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal button - Modal /-->
+
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 
