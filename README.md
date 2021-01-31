@@ -31,19 +31,25 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
 
   * ## Design
 
-  - ### Colour Scheme
-    * The main colours used are ???
+    - ### Colour Scheme
+      * The main colours used are a black and egg white color. These goes well together and the black color is mainly used as the background color for the navigation bar and footer. Egg white as backbround of the content parts. This scheme follows on all pages to create a similarity across the whole website. 
 
     - ### Typography
       * The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Exo has a nice feeling with a elegant design.
 
     - ### Imagery
-      * A large background hero image to catch the user's attention. Gives a clear idea what this page is about.
+      * A large background hero image to catch the user's attention. Gives a clear idea what this page is about. Across the whole website there is pictures to illustrate the products to potential customers.
+
+    - ### Structure
+      * The whole website is built to get the users easy access to what products the company offers and where the bakery is located. Therefore the website is neat with only the most relevant information present for the users. 
 
   * ## Wireframes
     - Desktop home Page Wireframe - [View](URL)
+      1. During the design work the idea was always to have a big eye catching hero image to make it clear what the website is about and to keep the rest of that page neat and clean.
     - Mobile home page Wireframe - [View](URL)
+      1. The idea on smaller screens was to keep the big hero image and make the page responsive without messing with the structure too much.
     - Tablet home wireframe - [View](URL)
+      1. Wanted to keep the home page as it looks on desktop on
     - Desktop product Page Wireframe - [View](URL)
     - Mobile product page Wireframe - [View](URL)
     - Tablet product wireframe - [View](URL)
@@ -55,7 +61,7 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
     - Tablet contact wireframe - [View](URL)
 
 ## features 
-* Responsive on all device sizes
+* Responsive on all device sizes (On smaller devices (smaller than 320px wide) the hamburger navigation button moves below the company name instead of next to it as intended.)
 
 
 ## Technologies Used 
