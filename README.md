@@ -72,10 +72,10 @@ This is my first milestone project at Code Institute, It's the main website an i
       1. The same approach for table as i had for the mobile regarding the design.
 
 * ## features  
-    a. Users are able to navigate to different pages on the website through the navigation panel on top of the page.
-    b. A google map is addded in the bottom of home page for users to see the address of the bakery along with opening hours.
-    c. A product page with prices and additional information about all products can be viewed.
-    d. About page and contact page with information about the bakery and how to contact them, along with a link to the correct address on google maps.
+    1. Users are able to navigate to different pages on the website through the navigation panel on top of the page.
+    2. A google map is addded in the bottom of home page for users to see the address of the bakery along with opening hours.
+    3. A product page with prices and additional information about all products can be viewed.
+    4. About page and contact page with information about the bakery and how to contact them, along with a link to the correct address on google maps.
 
 * ## Future features
 A number of features have been left out from this release due the scope of this project is a static website using HTML and CSS. However there is multiple features that can be included in future releases.
