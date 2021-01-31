@@ -118,6 +118,10 @@ This is my first milestone project at Code Institute, It's the main website of a
 * [W3C Markup Validator - Results]()
 * [W3C CSS Validator - Results]()
 
+* https://wave.webaim.org/ (WAVE Web Accessibility Evaluation Tool) was used to find contrast and other issues from a accessibility point of view in the testing part of the project to find issues to correct.
+* Chrome devtol - Lighthouse was also used to test the websites accesibility.
+
+
 ### Testing of User Stories from the User Story Section
 
 - ### First time Visitors Goals
