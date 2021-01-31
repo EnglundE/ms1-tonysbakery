@@ -172,7 +172,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 
   * Testing of responsivness was done with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during coding process. One issue still occurs, on smaller screens (less than 320px wide) the hamburger bar goes under the company name instead of next to it as supposed.
 
-    1. All tests are done by myself and in total 4 family members and friends.
+    * All tests are done by myself and in total 4 family members and friends.
 
       a. On home page the hover function was tested in the navbar and social media links - Passed
 
@@ -205,7 +205,7 @@ This is my first milestone project at Code Institute, It's the main website of a
       o. On contact page the submit button was tested if it works - Works as designed = linked back to contact page)
 
       p. On contact page the google maps link in the contact information section open google maps in a new tab - passed
-      
+
 
   
 
