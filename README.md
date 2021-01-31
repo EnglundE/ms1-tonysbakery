@@ -55,13 +55,19 @@ This is the main website for Tony's Bakery. It is designed to be responsible and
     - Mobile product page Wireframe - [View](URL)
       1. For mobile sizes the idea was to not squeeze in too many products on the current view, so only one product per row.
     - Tablet product wireframe - [View](URL)
-      1. 
+      1. Same idea as for desktop with same layout, 4 products on same row.
     - Desktop about Page Wireframe - [View](URL)
+      1. Wanted to keep the about page not to long and complicated, just a small introduction to the company.
     - Mobile about page Wireframe - [View](URL)
+      1. No difference in design approach for mobile compared to desktop or tablet.
     - Tablet about wireframe - [View](URL)
+      1. 1. No difference in design approach for tablet compared to desktop or mobile.
     - Desktop contact Page Wireframe - [View](URL)
+      1. Didnt want to put to much on the contact page and keep it neat with the contact header and then information with how to contact Tony's including a form. All centered on the screen.
     - Mobile contact page Wireframe - [View](URL)
+      1. The design approach was to have the content centered width wise with gaps on the sides to keep the design same across all devices.
     - Tablet contact wireframe - [View](URL)
+      1. The same approach for table as i had for the mobile regarding the design.
 
 ## features 
 * Responsive on all device sizes (On smaller devices (smaller than 320px wide) the hamburger navigation button moves below the company name instead of next to it as intended.)
