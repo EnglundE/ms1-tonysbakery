@@ -79,9 +79,9 @@ This is my first milestone project at Code Institute, It's the main website an i
 
 * ## Future features
  - A number of features have been left out from this release due the scope of this project is a static website using HTML and CSS. However there is multiple features that can be included in future releases.
-  1. A purchase function, then the customers can just swing by and pick up their products without paying in store.
-  2. A home delivery service with calender choice for date and time.
-  3. Login feature for storing of customer details, address, payment.
+    1. A purchase function, then the customers can just swing by and pick up their products without paying in store.
+    2. A home delivery service with calender choice for date and time.
+    3. Login feature for storing of customer details, address, payment.
 
 
 ## Technologies Used 
