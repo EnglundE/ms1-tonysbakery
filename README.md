@@ -72,16 +72,16 @@ This is my first milestone project at Code Institute, It's the main website an i
       1. The same approach for table as i had for the mobile regarding the design.
 
 * ## features  
-    1. Users are able to navigate to different pages on the website through the navigation panel on top of the page.
-    2. A google map is addded in the bottom of home page for users to see the address of the bakery along with opening hours.
-    3. A product page with prices and additional information about all products can be viewed.
-    4. About page and contact page with information about the bakery and how to contact them, along with a link to the correct address on google maps.
+  1. Users are able to navigate to different pages on the website through the navigation panel on top of the page.
+  2. A google map is addded in the bottom of home page for users to see the address of the bakery along with opening hours.
+  3. A product page with prices and additional information about all products can be viewed.
+  4. About page and contact page with information about the bakery and how to contact them, along with a link to the correct address on google maps.
 
 * ## Future features
-A number of features have been left out from this release due the scope of this project is a static website using HTML and CSS. However there is multiple features that can be included in future releases.
-  1.  A purchase function, then the customers can just swing by and pick up their products without paying in store.
+ - A number of features have been left out from this release due the scope of this project is a static website using HTML and CSS. However there is multiple features that can be included in future releases.
+  1. A purchase function, then the customers can just swing by and pick up their products without paying in store.
   2. A home delivery service with calender choice for date and time.
-  3. Login feature for storing of customer details, address, payment
+  3. Login feature for storing of customer details, address, payment.
 
 
 ## Technologies Used 
@@ -90,7 +90,7 @@ A number of features have been left out from this release due the scope of this 
 * CSS3 (link to wikipedia)
 
 ### Frameworks, Libraries & Programs Used
-1. Bootstrap 4.6.0: (link)
+1. Bootstrap 4.6.0
   - Bootstrap was used for responsivesness and styling of the website.
 2. Google Fonts:
   - Google fonts were used to import Exo and Roboto font. Exo is used on all pages throughout the project.
@@ -139,6 +139,28 @@ A number of features have been left out from this release due the scope of this 
    d. As a First Time Visitor, I want to check out the opening hours and location.
 
    1. The user got two options to find opening hours and location. In the bottom of the main page there is address written and also a google map below that with the address pinned. The other option is on the contact page, there is the address written again with an anchor link that takes the user to the address on google maps in a new tab.
+
+- ### Returning Visitor Goals  
+   a. As a Returning Visitor, I want to find information about products.
+
+   1. Users can find the product page from the top navigation bar. On product page each product got a picture, a short information what kind of bread it is. There is also a more info button to read more about the product and ingredients.
+
+   b. As a Returning Visitor, I want to find information about prices.
+
+   1. On the product page the price for each product is specified under each product image in EUR.
+
+   c. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
+
+   1. Users can find the address and opening hours on the home page of the website, for vising the bakery itself. The other way to contact Tony's is to use the navigation tabs at the top to navigate to the contact page. There the users can find contact information such as phone number, email address and a contact form.
+
+- ### Frequent User Goals
+   a. As a Frequent User, I want to see if there is any changes or updates in products.
+
+   1. Users can navigate to the product page and under each product a badge will be present with the text "new" if the product is new to the assortment.
+
+   b. As a frequent User, I want to double check or if there is any changes in opening hours.
+
+   2. Users can find the up to date opening hours on the home page under "opening hours" and on contact page. 
 
     
 
