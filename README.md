@@ -167,6 +167,30 @@ This is my first milestone project at Code Institute, It's the main website of a
 
    2. Users can find the up to date opening hours on the home page under "opening hours" and on contact page. 
 
+  ### Manual testing
+   
+
+  * Testing of responsivness was done with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during coding process. One issue still occurs, on smaller screens (less than 320px wide) the hamburger bar goes under the company name instead of next to it as supposed.
+    1. All tests are done by myself and in total 4 family members and friends.
+      a. On home page the hover function was tested in the navbar and social media links - Passed
+      b. On home page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
+      c. On home page all social media links in footer tested to see if correct external link opens in a new tab when klicked - Passed
+      d. On home page all images and the google map was checked to see if they load as they should without issues - Passed
+      e. On product page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
+      f. On product page the hover function was tested in the navbar and social media links aswell as the "more info" buttons - Passed
+      g. On product page all social media links in the footer tested to see if correct external link open in a new tab when klicked - Passed
+      h. On product page all images was check to see if they load as they should without issues - Passed
+      i. On about page the hover function was tested in the navbar and social media links - Passed
+      j. On about page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
+      k. On about page it was checked that the image loaded as it should - Passed
+      l. On contact page the hover function was tested in the navbar, social media links and submit button - Passed
+      m. On contact page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
+      n. On contact page the form was tested to check if Email Address is mandatory - Passed
+      o. On contact page the submit button was tested if it works - Works as designed = linked back to contact page)
+      p. On contact page the google maps link in the contact information section open google maps in a new tab - passed
+
+  
+
     
 
 
