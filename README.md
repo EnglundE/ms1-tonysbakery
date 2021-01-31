@@ -1,5 +1,10 @@
 # Ms1 Tonys Bakery!
 ------------
+
+![Mockup image of the project](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/mockup-tonys.JPG)
+
+
+
 [View the live project here!](URL)
 
 This is my first milestone project at Code Institute, It's the main website an imaginary bakery called Tony's Bakery. It is designed to be responsible and accessible on a range of devices, making it easy to navigate for potential customers.
