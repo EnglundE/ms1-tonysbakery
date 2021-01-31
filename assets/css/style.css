@@ -133,10 +133,9 @@ body, html {
     position:absolute;
     }
 
-/* Google maps /*/ 
+/* Google maps /*/
+
 /* Home page  /*/
-
-
 
 /* Products page*/
 
@@ -276,7 +275,8 @@ h4 {
 /* About picture */
 
 .about-picture {
-    margin-bottom: 25px;
+    margin-bottom: 40px;
+    margin-top: 40px;
     border: solid 2px rgba(0, 0, 0,0.8);
     border-radius: 10%;
 }
@@ -345,8 +345,7 @@ max-width: 600px;
 .position-right {
     text-align: center;
     border-top: solid 5px;
-    background-color: rgba(0, 0, 0,0.8)  
-    
+    background-color: rgba(0, 0, 0,0.8);
 }
 
 .fa-facebook-square {
@@ -354,7 +353,7 @@ max-width: 600px;
 }
 
 .fa-instagram-square {
-padding: 0 5px 0 5px;
+    padding: 0 5px 0 5px;
 }
 
 .fa-twitter-square {
