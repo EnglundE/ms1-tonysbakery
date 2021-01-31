@@ -4,11 +4,11 @@
 
 This is my first milestone project at Code Institute, It's the main website an imaginary bakery called Tony's Bakery. It is designed to be responsible and accessible on a range of devices, making it easy to navigate for potential customers.
 ------------
-## Project Goal
+* ## Project Goal
 
   * The project aims to create a static website for potential customers to find out that this bakery exists. What the bakery offers, where to find it and how to contact them.  
 
-  - ## User stories to support Project Goal
+* ## User stories to support Project Goal
   
   - ### First time Visitors Goals
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
@@ -31,7 +31,7 @@ This is my first milestone project at Code Institute, It's the main website an i
 
     2. As a frequent User, I want to double check or if there is any changes in opening hours.
 
-  * ## Design
+* ## Design
 
     - ### Colour Scheme
       * The main colours used are a black and egg white color. These goes well together and the black color is mainly used as the background color for the navigation bar and footer. Egg white as backbround of the content parts. This scheme follows on all pages to create a similarity across the whole website. 
@@ -45,7 +45,7 @@ This is my first milestone project at Code Institute, It's the main website an i
     - ### Structure
       * The whole website is built to get the users easy access to what products the company offers and where the bakery is located. Therefore the website is neat with only the most relevant information present for the users. 
 
-  * ## Wireframes
+* ## Wireframes
     - Desktop home Page Wireframe - [View](URL)
       1. During the design work the idea was always to have a big eye catching hero image to make it clear what the website is about and to keep the rest of that page neat and clean.
     - Mobile home page Wireframe - [View](URL)
@@ -71,8 +71,17 @@ This is my first milestone project at Code Institute, It's the main website an i
     - Tablet contact wireframe - [View](URL)
       1. The same approach for table as i had for the mobile regarding the design.
 
-## features 
-* Responsive on all device sizes (On smaller devices (smaller than 320px wide) the hamburger navigation button moves below the company name instead of next to it as intended.)
+* ## features  
+    a. Users are able to navigate to different pages on the website through the navigation panel on top of the page.
+    b. A google map is addded in the bottom of home page for users to see the address of the bakery along with opening hours.
+    c. A product page with prices and additional information about all products can be viewed.
+    d. About page and contact page with information about the bakery and how to contact them, along with a link to the correct address on google maps.
+
+* ## Future features
+A number of features have been left out from this release due the scope of this project is a static website using HTML and CSS. However there is multiple features that can be included in future releases.
+    a. A purchase function, then the customers can just swing by and pick up their products without paying in store.
+    b. A home delivery service with calender choice for date and time.
+    c. Login feature for storing of customer details, address, payment
 
 
 ## Technologies Used 
