@@ -281,7 +281,7 @@ All credits are also in the code above each code snippet.
 
   * Credit for picture from Macau Photo Agency at unsplash - [Link](https://unsplash.com/photos/Wii8pkMpEQk)
 
-  * Credit for picture from Macau Photo Agency at unsplash [Link][https://unsplash.com/photos/l6_Yyfl3O8s]
+  * Credit for picture from Macau Photo Agency at unsplash [Link](https://unsplash.com/photos/l6_Yyfl3O8s)
 
   * Credit for picture from Macau Photo Agency at unsplash - [Link](https://unsplash.com/photos/kXiaeeleD8U)
 
