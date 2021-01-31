@@ -340,6 +340,7 @@ max-width: 600px;
 
 .fab {
     font-size: 20px;
+    filter: contrast(85%);
 }
 
 .position-right {

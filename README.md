@@ -116,7 +116,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 ## Testing
  The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
 * [W3C Markup Validator - Results]()
-* [W3C CSS Validator - Results](link)
+* [W3C CSS Validator - Results]()
 
 ### Testing of User Stories from the User Story Section
 
