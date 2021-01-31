@@ -2,11 +2,13 @@
 ------------
 [View the live project here!](URL)
 
-This is the main website for Tony's Bakery. It is designed to be responsible and accessible on a range of devices, making it easy to navigate for potential customers.
+This is my first milestone project at Code Institute, It's the main website an imaginary bakery called Tony's Bakery. It is designed to be responsible and accessible on a range of devices, making it easy to navigate for potential customers.
 ------------
-## User Experience (UX)
+## Project Goal
 
-  - ## User stories
+  * The project aims to create a static website for potential customers to find out that this bakery exists. What the bakery offers, where to find it and how to contact them.  
+
+  - ## User stories to support Project Goal
   
   - ### First time Visitors Goals
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
