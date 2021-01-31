@@ -313,6 +313,11 @@ max-width: 600px;
     max-width: 600px;  
 }
 
+.btn-success {
+    color: black;
+    font-weight: 500;
+}
+
 /* Feedback form  /*/
 
 .contact-bg-color {
