@@ -81,6 +81,7 @@ This is my first milestone project at Code Institute, It's the main website of a
   2. A google map is addded in the bottom of home page for users to see the address of the bakery along with opening hours.
   3. A product page with prices and additional information about all products can be viewed.
   4. About page and contact page with information about the bakery and how to contact them, along with a link to the correct address on google maps.
+  5. A contact form in contact page.
 
 * ## Future features
  - A number of features have been left out from this release due the scope of this project is a static website using HTML and CSS. However there is multiple features that can be included in future releases.
@@ -115,11 +116,11 @@ This is my first milestone project at Code Institute, It's the main website of a
    
 ## Testing
  The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
-* [W3C Markup Validator - Results]()
-* [W3C CSS Validator - Results]()
+* W3C Markup Validator - [Result]()
+* W3C CSS Validator - [Result]()
 
 * https://wave.webaim.org/ (WAVE Web Accessibility Evaluation Tool) was used to find contrast and other issues from a accessibility point of view in the testing part of the project to find issues to correct.
-* Chrome devtol - Lighthouse was also used to test the websites accesibility.
+* Chrome dev tool - Lighthouse was also used to test the websites accesibility.
 
 
 ### Testing of User Stories from the User Story Section
@@ -171,44 +172,147 @@ This is my first milestone project at Code Institute, It's the main website of a
 
    2. Users can find the up to date opening hours on the home page under "opening hours" and on contact page. 
 
-  ### Manual testing
+- ### Manual testing
    
 
   * Testing of responsivness was done with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during coding process. One issue still occurs, on smaller screens (less than 320px wide) the hamburger bar goes under the company name instead of next to it as supposed.
 
-    * All tests are done by myself and in total 4 family members and friends.
+  * All tests are done by myself and in total 4 family members and friends.
 
-      a. On home page the hover function was tested in the navbar and social media links - Passed
+    a. On home page the hover function was tested in the navbar and social media links - Passed
 
-      b. On home page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
+    b. On home page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
 
-      c. On home page all social media links in footer tested to see if correct external link opens in a new tab when klicked - Passed
+    c. On home page all social media links in footer tested to see if correct external link opens in a new tab when klicked - Passed
 
-      d. On home page all images and the google map was checked to see if they load as they should without issues - Passed
+    d. On home page all images and the google map was checked to see if they load as they should without issues - Passed
 
-      e. On product page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
+    e. On product page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
 
-      f. On product page the hover function was tested in the navbar and social media links aswell as the "more info" buttons - Passed
+    f. On product page the hover function was tested in the navbar and social media links aswell as the "more info" buttons - Passed
 
-      g. On product page all social media links in the footer tested to see if correct external link open in a new tab when klicked - Passed
+    g. On product page all social media links in the footer tested to see if correct external link open in a new tab when klicked - Passed
 
-      h. On product page all images was check to see if they load as they should without issues - Passed
+    h. On product page all images was check to see if they load as they should without issues - Passed
 
-      i. On about page the hover function was tested in the navbar and social media links - Passed
+    i. On about page the hover function was tested in the navbar and social media links - Passed
 
-      j. On about page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
+    j. On about page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
 
-      k. On about page it was checked that the image loaded as it should - Passed
+    k. On about page it was checked that the image loaded as it should - Passed
 
-      l. On contact page the hover function was tested in the navbar, social media links and submit button - Passed
+    l. On contact page the hover function was tested in the navbar, social media links and submit button - Passed
 
-      m. On contact page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
+    m. On contact page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
 
-      n. On contact page the form was tested to check if Email Address is mandatory - Passed
+    n. On contact page the form was tested to check if Email Address is mandatory - Passed
 
-      o. On contact page the submit button was tested if it works - Works as designed = linked back to contact page)
+    o. On contact page the submit button was tested if it works - Works as designed = linked back to contact page)
 
-      p. On contact page the google maps link in the contact information section open google maps in a new tab - passed
+    p. On contact page the google maps link in the contact information section open google maps in a new tab - passed
+
+  * The website was tested on Internet Explorer, Safari, Microsoft Edge and Google Chrome browsers.
+  * The website was viewed and tested on different devices such as Laptop, Iphone 11, Desktop, Samsung S7, Xiaomi MI 10.
+
+- ## Deployment
+
+- ### GitHub Pages
+
+The project was deployed to GitHub Pages using these steps...
+
+  1. Log in to GitHub and locate the [Repository](https://github.com/EnglundE/ms1-tonysbakery)
+  2. Go to Settings in this repository.
+  3. Scroll down to the GitHub Pages section.
+  4. Under source, klick the "none" dropdown and choose the main branch.
+  5. The page will automatically refresh.
+  6. Under GitHub Pages section in settings you can now locate the published site link.
+
+- ### Forking the GitHub Repository
+
+By forking the GitHub repository you can make a copy of the original repository to view and/or make changes without affecting the original repository byt using the following steps...
+
+  1. Log in to GitHub and locate this [Repository](https://github.com/EnglundE/ms1-tonysbakery)
+  2. On the far right in the repository (opposite side from EnglundE/ms1-tonysbakery), locate the "Fork" button.
+  3. You should now have a copy of the original repository in your GitHub account.
+
+- ### Making a Local Clone
+
+  1. Log in to GitHub and locate this [Repository](https://github.com/EnglundE/ms1-tonysbakery)
+  2. Below "settings", klick on the "Code" dropdown.
+  3. To clone the repository using HTTPS, under clode with HTTPS, copy the link.
+  4. Open Git Bash.
+  5. Change the current working directory to the location where you want the cloned directory to be made.
+  6. Type "git clone, and then paste the URL you copied in step 3.
+  7. Press Enter. Your local clone will be created.
+
+- ### Credits 
+
+All credits are also in the code above each code snippet.
+
+  #### Code
+
+  * [Bootstrap4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Used bootstrap throughout the whole project to mainly make the site responsive.
+
+  * Credit to our friends at w3schools for the Hero-image + hero text with styling - [Link](https://www.w3schools.com/howto/howto_css_hero_image.asp)
+  
+  * Credit to davidmacd for alt text for a img added in CSS - [link](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+
+  * Credit to mdbootstrap for Google maps code - [Link](https://mdbootstrap.com/docs/b4/jquery/javascript/google-maps/)
+
+  * Credit to W3 Schools for form code - [Link](https://www.w3schools.com/bootstrap/bootstrap_forms.asp)
+
+  #### Content
+
+  * All content was written by the developer.
+
+  #### Media
+
+  * Credit for picture from Jytte Elfferich at Pexels - [link](https://www.pexels.com/sv-se/foto/brod-mat-manniskor-mork-4881602/)
+
+  * Credit for picture from Mae Mu at Unsplash - [Link](https://unsplash.com/photos/Emhz3miT6mo)
+
+  * Credit for picture from Pixabay at Pexels - [Link](https://www.pexels.com/sv-se/foto/bakverk-brod-farsk-hander-263168/)
+
+  * Credit for picture from Bruno Thethe on Pexels [Link](https://www.pexels.com/sv-se/foto/brod-mat-bageri-mjol-1755785/)
+
+  * Credit for picture from Pixabay at pexels [Link](https://www.pexels.com/sv-se/foto/baka-bakad-bakverk-brod-209196/)
+
+  * Credit for picture from Pizabay at pexel - [Link](https://www.pexels.com/sv-se/foto/bakverk-brod-limpor-mat-209194/)
+
+  * Credit for picture from Macau Photo Agency at unsplash - [Link](https://unsplash.com/photos/Wii8pkMpEQk)
+
+  * Credit for picture from Macau Photo Agency at unsplash [Link][https://unsplash.com/photos/l6_Yyfl3O8s]
+
+  * Credit for picture from Macau Photo Agency at unsplash - [Link](https://unsplash.com/photos/kXiaeeleD8U)
+
+  * Credit for picture from Artur Rutkowski at unsplash - [Link](https://unsplash.com/photos/h2CPeqTzaaY)
+
+  * Credit for picture from Anton at unsplash - [Link](https://unsplash.com/photos/mJ2vG6C1JmQ)
+
+  * Credit for picture from Irina Babina at unsplash - [Link](https://unsplash.com/photos/Aop_-stOpnM)
+
+  * Credit for picture from MissMushroom at unsplah - [Link](https://unsplash.com/photos/wIm4CDia_1s)
+
+  * Credit for picture from Sergio Arze at unsplash - [Link](https://unsplash.com/photos/wJLGRhZsn5w)
+
+  * Credit for picture from DDP at unsplash - [Link](https://unsplash.com/photos/CceG6jpl19M)
+
+  * Credit  for picture from Maria Perez via Pexels - [Link](https://www.pexels.com/sv-se/foto/bakad-bakverk-blandad-brod-2128535/)
+
+
+  #### Styling 
+
+  * Credit to Stackoverflow - [Link](https://stackoverflow.com/questions/5817233/align-button-at-the-bottom-of-div-using-css)
+
+
+  #### Acknowledgements
+
+  * My mentor Mo Shami for pushing and guiding me throughout this project.
+  * Code Institute slack channels for troubleshooting and guidance.
+  * Code Institute course for giving me the tools to create this.
+  * Code Institute course material for inspiration
+
+
 
 
   
