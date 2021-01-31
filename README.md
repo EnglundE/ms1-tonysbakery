@@ -58,7 +58,7 @@ This is my first milestone project at Code Institute, It's the main website an i
       1. For mobile sizes the idea was to not squeeze in too many products on the current view, so only one product per row.
     - Tablet product wireframe - [View](URL)
       1. Same idea as for desktop with same layout, 4 products on same row.
-    - Desktop about Page Wireframe - [View](URL)
+    - Desktop about Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-desktop-wireframe.png)
       1. Wanted to keep the about page not to long and complicated, just a small introduction to the company.
     - Mobile about page Wireframe - [View](URL)
       1. No difference in design approach for mobile compared to desktop or tablet.
