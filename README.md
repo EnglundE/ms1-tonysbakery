@@ -5,7 +5,7 @@
 
 
 
-[View the live project here!](URL)
+[View the live project here!](https://englunde.github.io/ms1-tonysbakery/)
 
 This is my first milestone project at Code Institute, It's the main website an imaginary bakery called Tony's Bakery. It is designed to be responsible and accessible on a range of devices, making it easy to navigate for potential customers.
 ------------
@@ -91,8 +91,8 @@ This is my first milestone project at Code Institute, It's the main website an i
 
 ## Technologies Used 
 ### Languages Used
-* HTML5 (link to wikipedia)
-* CSS3 (link to wikipedia)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries & Programs Used
 1. Bootstrap 4.6.0
@@ -115,7 +115,7 @@ This is my first milestone project at Code Institute, It's the main website an i
    
 ## Testing
  The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
-* [W3C Markup Validator - Results](https://validator.w3.org/)
+* [W3C Markup Validator - Results]()
 * [W3C CSS Validator - Results](link)
 
 ### Testing of User Stories from the User Experience (UX) Section
