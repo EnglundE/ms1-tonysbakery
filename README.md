@@ -51,7 +51,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 > The whole website is built to get the users easy access to what products the company offers and where the bakery is located. Therefore the website is neat with only the most relevant information present for the users. 
 
 ## Wireframes
-  - All wireframes is described below and can be found on this [Link]()
+  - All wireframes is described below and can be found on this [Link](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/docs/Wireframes.pdf)
 > 1. Desktop home Page Wireframe
 > * During the design work the idea was always to have a big eye catching hero image to make it clear what the website is about and to keep the rest of that page neat and clean.
 > 2. Mobile home page Wireframe
@@ -100,32 +100,32 @@ This is my first milestone project at Code Institute, It's the main website of a
 > * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 - ### Frameworks, Libraries & Programs Used
-> 1. Bootstrap 4.6.0
+> 1. Bootstrap 4.6: [Link](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 > - Bootstrap was used for responsivesness and styling of the website.
-> 2. Google Fonts:
+> 2. Google Fonts: [Link](https://fonts.google.com/)
 > - Google fonts were used to import Exo and Roboto font. Exo is used on all pages throughout the project.
-> 3. Font Awesome: 
+> 3. Font Awesome: [Link](https://fontawesome.com/)
 > - Font Awesome was used on all pages to add icons.
 > 4. JQuery:
 > - JQuery came with Bootstrap to make the navbar responsive.
 > 5. Git:
 > - Git was used for version control by utilizing Visual Studio Code terminal to commit to Git and Push to GitHub.
-> 6. Github:
+> 6. Github: [Link](https://github.com/)
 > - GitHub is used to store the projects code after being pushed from Git.
-> 7. Balsamiq:
+> 7. Balsamiq: [Link](https://balsamiq.com/)
 > - Balsamiq was used to create wireframes during the design process.
-> 8. Ami responsivedesign:
+> 8. Ami responsivedesign: [Link](http://ami.responsivedesign.is/)
 > - was used to create mockups of the deployed website.
   
 ---
 
 ## Testing
  The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
-> * W3C Markup Validator - [Link]()
-> * W3C CSS Validator - [Link]()
+> * W3C Markup Validator - [Link](https://validator.w3.org/nu/)
+> * W3C CSS Validator - [Link](https://jigsaw.w3.org/css-validator/validator.html.en)
 
 > * (WAVE Web Accessibility Evaluation Tool) was used to find contrast and other issues from a accessibility point of view in the testing part of the project to find issues to correct.[Link](https://wave.webaim.org/)
-> * Chrome dev tool - Lighthouse was also used to test the websites accesibility.
+> * Chrome dev tool - Lighthouse was also used to test the websites accesibility, SEO, Best practices and Performance.
 
 
 - ### Testing of User Stories from the User Story Section
@@ -161,7 +161,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 - ### Manual testing
    
 
-> * Testing of responsivness was done with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during coding process. One issue still occurs, on smaller screens (less than 320px wide) the hamburger bar goes under the company name instead of next to it as supposed.
+> * Testing of responsivness was done with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during the same.
 > * Manual testing were done by myself and in total 4 family members and friends.
 
 > 1. On home page the hover function was tested in the navbar and social media links.
@@ -181,7 +181,14 @@ This is my first milestone project at Code Institute, It's the main website of a
 > 15. On contact page the submit button was tested if it works - Works as designed = linked back to contact page)
 > 16. On contact page the google maps link in the contact information section open google maps in a new tab.
 > * The website was tested on Internet Explorer, Safari, Microsoft Edge and Google Chrome browsers.
-> * The website was viewed and tested on different devices such as Laptop, Iphone 11, Desktop, Samsung S7, Xiaomi MI 10.
+> * The website was viewed and tested on different devices such as Laptop, Iphone 11, Ipad Air 2, Iphone SE, Desktop, Samsung S7, Xiaomi MI 10.
+
+- #### Problems found during testing
+> 1. On screens below 320px wide, hamburger bar goes under the company name on the left side instead of staying next to it on right side. 
+> 2. Some users during testing pointed out that hamburger bar was not visible enough. Not changed.
+> 3. During testing it turned out that Product page load the images slowly, after compressing the images to get the page to load faster it got better. 
+> 4. During testing users addressed that the content on about + contact pages was to close to the end of the screen on left side. Corrected upon discovery.
+> 5. During testing a typo was discovered and corrected.
 
 ---
 
@@ -208,7 +215,7 @@ By forking the GitHub repository you can make a copy of the original repository 
 
 - ### Making a Local Clone
 
-> 1. Log in to GitHub and locate this [Repository](https://github.com/EnglundE/ms1-tonysbakery)
+> 1. Log in to GitHub and locate the Repository.
 > 2. Below "settings", klick on the "Code" dropdown.
 > 3. To clone the repository using HTTPS, under clode with HTTPS, copy the link.
 > 4. Open Git Bash.

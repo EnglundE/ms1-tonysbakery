@@ -46,6 +46,10 @@ body, html {
     color: #007bff !important;
 }
 
+button .navbar-toggler-icon {
+    color: white;
+}
+
 /* Navigation  /*/
 
 
@@ -266,6 +270,10 @@ body, html {
 
 h4 {
     text-align: left;
+}
+
+.about-padding {
+    padding: 10px;
 }
 
 /* About info section  /*/
