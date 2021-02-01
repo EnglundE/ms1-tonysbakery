@@ -130,18 +130,18 @@ This is my first milestone project at Code Institute, It's the main website of a
 - ### Testing of User Stories from the User Story Section
 
 - ### First time Visitors Goals
-> a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
-> 1. When entering the site for the first time, there is an clean and easy to read navigation bar to go to the page of their choice. There is also a header in the naivagion section with the title of the website/Company that basically explains what the site is about.
-> 2. The main points of the website is also made with the big hero image with the text "Bread made with only Flour, Water and Love" together with the header in the navigation bar.
-> 3. To learn more about the company the user can use the navigation bar to get to the about page where information can be found.
-> 4. The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
-> b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
-> 1. The the top of each page there is a clean navigation bar with a link describing what page they ends up on.
-> 2. Each page got the navigation bar located at the same place and with same design to make it easy to find back to it for further navigation. The navigation bar will also show on which page you are on right now.
-> c. As a First Time Visitor, I want to look for social media links to check for reviews.
-> 1. On each page, the social media links will be in the bottom of the page with a clear title and proper icon for which social media you is taken to. This This in a stand up blue colour
-> d. As a First Time Visitor, I want to check out the opening hours and location.
-> 1. The user got two options to find opening hours and location. In the bottom of the main page there is address written and also a google map below that with the address pinned. The other option is on the contact page, there is the address written again with an anchor link that takes the user to the address on google maps in a new tab.
+> 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+>   a. When entering the site for the first time, there is an clean and easy to read navigation bar to go to the page of their choice. There is also a header in the naivagion section with the title of the website/Company that basically explains what the site is about.
+>   b. The main points of the website is also made with the big hero image with the text "Bread made with only Flour, Water and Love" together with the header in the navigation bar.
+>   c. To learn more about the company the user can use the navigation bar to get to the about page where information can be found.
+>   d. The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
+> 2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
+>   a. The the top of each page there is a clean navigation bar with a link describing what page they ends up on.
+>   b. Each page got the navigation bar located at the same place and with same design to make it easy to find back to it for further navigation. The navigation bar will also show on which page you are on right now.
+> 3. As a First Time Visitor, I want to look for social media links to check for reviews.
+>   a. On each page, the social media links will be in the bottom of the page with a clear title and proper icon for which social media you is taken to. This This in a stand up blue colour
+> 4. As a First Time Visitor, I want to check out the opening hours and location.
+>   a. The user got two options to find opening hours and location. In the bottom of the main page there is address written and also a google map below that with the address pinned. The other option is on the contact page, there is the address written again with an anchor link that takes the user to the address on google maps in a new tab.
 
 - ### Returning Visitor Goals  
 > a. As a Returning Visitor, I want to find information about products.
