@@ -120,8 +120,8 @@ This is my first milestone project at Code Institute, It's the main website of a
 
 ## Testing
  The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.  
-> * W3C Markup Validator - [Result]()
-> * W3C CSS Validator - [Result]()
+> * W3C Markup Validator - [Link]()
+> * W3C CSS Validator - [Link]()
 
 > * https://wave.webaim.org/ (WAVE Web Accessibility Evaluation Tool) was used to find contrast and other issues from a accessibility point of view in the testing part of the project to find issues to correct.
 > * Chrome dev tool - Lighthouse was also used to test the websites accesibility.
@@ -161,24 +161,24 @@ This is my first milestone project at Code Institute, It's the main website of a
    
 
 > * Testing of responsivness was done with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during coding process. One issue still occurs, on smaller screens (less than 320px wide) the hamburger bar goes under the company name instead of next to it as supposed.
-> * All tests are done by myself and in total 4 family members and friends.
+> * Manual testing were done by myself and in total 4 family members and friends.
 
-> a. On home page the hover function was tested in the navbar and social media links.
-> b. On home page all links in the navbar was tested to see that the user gets to the correct page when klicked.
-> c. On home page all social media links in footer tested to see if correct external link opens in a new tab when klicked.
-> d. On home page all images and the google map was checked to see if they load as they should without issues.
-> e. On product page all links in the navbar was tested to see that the user gets to the correct page when klicked.
-> f. On product page the hover function was tested in the navbar and social media links aswell as the "more info" buttons.
-> g. On product page all social media links in the footer tested to see if correct external link open in a new tab when klicked.
-> h. On product page all images was check to see if they load as they should without issues.
-> i. On about page the hover function was tested in the navbar and social media links.
-> j. On about page all links in the navbar was tested to see that the user gets to the correct page when klicked.
-> k. On about page it was checked that the image loaded as it should.
-> l. On contact page the hover function was tested in the navbar, social media links and submit button.
-> m. On contact page all links in the navbar was tested to see that the user gets to the correct page when klicked.
-> n. On contact page the form was tested to check if Email Address is mandatory.
-> o. On contact page the submit button was tested if it works - Works as designed = linked back to contact page)
-> p. On contact page the google maps link in the contact information section open google maps in a new tab.
+> 1. On home page the hover function was tested in the navbar and social media links.
+> 2. On home page all links in the navbar was tested to see that the user gets to the correct page when klicked.
+> 3. On home page all social media links in footer tested to see if correct external link opens in a new tab when klicked.
+> 4. On home page all images and the google map was checked to see if they load as they should without issues.
+> 5. On product page all links in the navbar was tested to see that the user gets to the correct page when klicked.
+> 6. On product page the hover function was tested in the navbar and social media links aswell as the "more info" buttons.
+> 7. On product page all social media links in the footer tested to see if correct external link open in a new tab when klicked.
+> 8. On product page all images was check to see if they load as they should without issues.
+> 9. On about page the hover function was tested in the navbar and social media links.
+> 10. On about page all links in the navbar was tested to see that the user gets to the correct page when klicked.
+> 11. On about page it was checked that the image loaded as it should.
+> 12. On contact page the hover function was tested in the navbar, social media links and submit button.
+> 13. On contact page all links in the navbar was tested to see that the user gets to the correct page when klicked.
+> 14. On contact page the form was tested to check if Email Address is mandatory.
+> 15. On contact page the submit button was tested if it works - Works as designed = linked back to contact page)
+> 16. On contact page the google maps link in the contact information section open google maps in a new tab.
 > * The website was tested on Internet Explorer, Safari, Microsoft Edge and Google Chrome browsers.
 > * The website was viewed and tested on different devices such as Laptop, Iphone 11, Desktop, Samsung S7, Xiaomi MI 10.
 
