@@ -274,7 +274,13 @@ All credits are also in the code above each code snippet.
 > * My mentor Mo Shami for pushing and guiding me throughout this project.
 > * Code Institute slack channels for troubleshooting and guidance.
 > * Code Institute course for giving me the tools to create this.
-> * Code Institute course material for inspiration
+> * Code Institute course material for inspiration.
+
+## Support
+
+> For any issues or assistance, please email Erik Englund at Erik.Englund1@gmail.com
+
+---
 
 
 
