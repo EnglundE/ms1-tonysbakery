@@ -85,6 +85,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 > 3. A product page with prices and additional information about all products can be viewed.
 > 4. About page and contact page with information about the bakery and how to contact them, along with a link to the correct address on google maps.
 > 5. A contact form in contact page.
+> 6. Social media Links that opens in new tab.
 
 ## Future features
 > * A number of features have been left out from this release due the scope of this project is a static website using HTML and CSS. However there is multiple features   that can be included in future releases.
