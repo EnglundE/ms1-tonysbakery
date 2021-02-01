@@ -18,25 +18,25 @@ This is my first milestone project at Code Institute, It's the main website of a
 ## User stories to support Project Goal
   
   - ### First time Visitors Goals
-> 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+ > 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
 
-> 2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
+ > 2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
 
-> 3. As a First Time Visitor, I want to look for social media links to check for reviews.
+ > 3. As a First Time Visitor, I want to look for social media links to check for reviews.
 
-> 4. As a First Time Visitor, I want to check out the opening hours and location.
+ > 4. As a First Time Visitor, I want to check out the opening hours and location.
 
   - ### Returning Visitor Goals
-> 1. As a Returning Visitor, I want to find information about products.
+ > 1. As a Returning Visitor, I want to find information about products.
 
-> 2. As a Returning Visitor, I want to find information about prices.
+ > 2. As a Returning Visitor, I want to find information about prices.
 
-> 3. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
+ > 3. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
 
   - ### Frequent User Goals
-> 1. As a Frequent User, I want to see if there is any changes or updates in products.
+ > 1. As a Frequent User, I want to see if there is any changes or updates in products.
 
-> 2. As a frequent User, I want to double check or if there is any changes in opening hours.
+ > 2. As a frequent User, I want to double check or if there is any changes in opening hours.
 
 ## Design
 
