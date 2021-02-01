@@ -39,7 +39,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 ## Design
 
 - ### Color Scheme
-> The main colours used are a black and egg white color. These goes well together and the black color is mainly used as the background color for the navigation bar and footer. Egg white as backbround of the content parts. This scheme follows on all pages to create a similarity across the whole website. 
+> The main colors used are a black and egg white color. These goes well together and the black color is mainly used as the background color for the navigation bar and footer. Egg white as backbround of the content parts. This scheme follows on all pages to create a similarity across the whole website. 
 
 - ### Typography
 > The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Exo has a nice feeling with a elegant design.
@@ -125,7 +125,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 > * W3C CSS Validator - [Link](https://jigsaw.w3.org/css-validator/validator.html.en)
 
 > * (WAVE Web Accessibility Evaluation Tool) was used to find contrast and other issues from a accessibility point of view in the testing part of the project to find issues to correct.[Link](https://wave.webaim.org/)
-> * Chrome dev tool - Lighthouse was also used to test the websites accesibility, SEO, Best practices and Performance.
+> * Chrome dev tool was used to test the websites accesibility, SEO, Best practices and Performance.
 
 
 - ### Testing of User Stories from the User Story Section
