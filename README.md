@@ -162,7 +162,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 - ### Manual testing
    
 
-> * Testing of responsivness was done with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during the same.
+> * Testing of responsivness was done and works well on all sizes. Mobile sizes from 320px, up to desktop size with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during the same.
 > * Manual testing were done by myself and in total 4 family members and friends.
 
 > 1. On home page the hover function was tested in the navbar and social media links.
