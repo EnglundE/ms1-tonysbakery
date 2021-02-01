@@ -15,6 +15,10 @@ This is my first milestone project at Code Institute, It's the main website of a
 
 ---
 
+## User Experience (UX)
+
+> This website is designed to reach potential customers to Tony's Bakery by exposing his products and location in a intuitive and eye catching way.
+
 ## User stories to support Project Goal
   
 - ### First time Visitors Goals
@@ -32,8 +36,6 @@ This is my first milestone project at Code Institute, It's the main website of a
 > 1. As a Frequent User, I want to see if there is any changes or updates in products.
 > 2. As a frequent User, I want to double check or if there is any changes in opening hours.
 
----
-
 ## Design
 
 - ### Colour Scheme
@@ -48,32 +50,31 @@ This is my first milestone project at Code Institute, It's the main website of a
 - ### Structure
 > The whole website is built to get the users easy access to what products the company offers and where the bakery is located. Therefore the website is neat with only the most relevant information present for the users. 
 
----
-
 ## Wireframes
-> 1. Desktop home Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-desktop-wireframe.jpg)
+  - All wireframes is described below and can be found on this [Link]()
+> 1. Desktop home Page Wireframe
 > * During the design work the idea was always to have a big eye catching hero image to make it clear what the website is about and to keep the rest of that page neat and clean.
-> 2. Mobile home page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-mobile-wireframe.png)
+> 2. Mobile home page Wireframe
 > * The idea on smaller screens was to keep the big hero image and make the page responsive without messing with the structure too much.
-> 3. Tablet home wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-tablet-wireframe.png)
+> 3. Tablet home wireframe
 > * No changes in the design work when it come to home page on tablets.
-> 4. Desktop product Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-desktop-wireframe.jpg)
+> 4. Desktop product Page Wireframe
 > * Wanted to create a clean product page with only products with information about them and nothing else to distract the user.
-> 5. Mobile product page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-mobile-wireframe.png)
+> 5. Mobile product page Wireframe
 > * For mobile sizes the idea was to not squeeze in too many products on the current view, so only one product per row.
-> 6. Tablet product wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-tablet-wireframe.png)
+> 6. Tablet product wireframe
 > * Same idea as for desktop with same layout, 4 products on same row.
-> 7. Desktop about Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-desktop-wireframe.png)
+> 7. Desktop about Page Wireframe
 > * Wanted to keep the about page not to long and complicated, just a small introduction to the company.
-> 8. Mobile about page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-mobile-wireframe.png)
+> 8. Mobile about page Wireframe
 > * No difference in design approach for mobile compared to desktop or tablet.
-> 9. Tablet about wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-tablet-wireframe.png)
+> 9. Tablet about wireframe
 > * No difference in design approach for tablet compared to desktop or mobile.
-> 10. Desktop contact Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-desktop-wireframe.png)
+> 10. Desktop contact Page Wireframe
 > * Didnt want to put to much on the contact page and keep it neat with the contact header and then information with how to contact Tony's including a form. All centered on the screen.
-> 11. Mobile contact page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-mobile-wireframe.png)
+> 11. Mobile contact page Wireframe
 > * The design approach was to have the content centered width wise with gaps on the sides to keep the design same across all devices.
-> 12. Tablet contact wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-tablet-wireframe.png)
+> 12. Tablet contact wireframe
 > * The same approach for table as i had for the mobile regarding the design.
 
 ---
