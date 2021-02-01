@@ -11,9 +11,11 @@ This is my first milestone project at Code Institute, It's the main website of a
 ------------
 * ## Project Goal
 
-  * The project aims to create a static website for potential customers to find out that this bakery exists. What the bakery offers, where to find it and how to contact them.  
+  > Blockquote The project aims to create a static website for potential customers to find out that this bakery exists. What the bakery offers, where to find it and how to contact them.  
 
-* ## User stories to support Project Goal
+  ---
+
+## User stories to support Project Goal
   
   - ### First time Visitors Goals
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
