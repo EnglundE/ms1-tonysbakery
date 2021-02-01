@@ -19,23 +19,17 @@ This is my first milestone project at Code Institute, It's the main website of a
   
 - ### First time Visitors Goals
 > 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
-
 > 2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
-
 > 3. As a First Time Visitor, I want to look for social media links to check for reviews.
-
 > 4. As a First Time Visitor, I want to check out the opening hours and location.
 
 - ### Returning Visitor Goals
 > 1. As a Returning Visitor, I want to find information about products.
-
 > 2. As a Returning Visitor, I want to find information about prices.
-
 > 3. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
 
 - ### Frequent User Goals
 > 1. As a Frequent User, I want to see if there is any changes or updates in products.
-
 > 2. As a frequent User, I want to double check or if there is any changes in opening hours.
 
  ---
@@ -137,90 +131,54 @@ This is my first milestone project at Code Institute, It's the main website of a
 
 - ### First time Visitors Goals
 > a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
-
 > 1. When entering the site for the first time, there is an clean and easy to read navigation bar to go to the page of their choice. There is also a header in the naivagion section with the title of the website/Company that basically explains what the site is about.
-
 > 2. The main points of the website is also made with the big hero image with the text "Bread made with only Flour, Water and Love" together with the header in the navigation bar.
-
 > 3. To learn more about the company the user can use the navigation bar to get to the about page where information can be found.
-
 > 4. The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
-
 > b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
-
 > 1. The the top of each page there is a clean navigation bar with a link describing what page they ends up on.
-
 > 2. Each page got the navigation bar located at the same place and with same design to make it easy to find back to it for further navigation. The navigation bar will also show on which page you are on right now.
-
 > c. As a First Time Visitor, I want to look for social media links to check for reviews.
-
 > 1. On each page, the social media links will be in the bottom of the page with a clear title and proper icon for which social media you is taken to. This This in a stand up blue colour
-
 > d. As a First Time Visitor, I want to check out the opening hours and location.
-
 > 1. The user got two options to find opening hours and location. In the bottom of the main page there is address written and also a google map below that with the address pinned. The other option is on the contact page, there is the address written again with an anchor link that takes the user to the address on google maps in a new tab.
 
 - ### Returning Visitor Goals  
 > a. As a Returning Visitor, I want to find information about products.
-
 > 1. Users can find the product page from the top navigation bar. On product page each product got a picture, a short information what kind of bread it is. There is also a more info button to read more about the product and ingredients.
-
 > b. As a Returning Visitor, I want to find information about prices.
-
 > 1. On the product page the price for each product is specified under each product image in EUR.
-
 > c. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
-
 > 1. Users can find the address and opening hours on the home page of the website, for vising the bakery itself. The other way to contact Tony's is to use the navigation tabs at the top to navigate to the contact page. There the users can find contact information such as phone number, email address and a contact form.
 
 - ### Frequent User Goals
 > a. As a Frequent User, I want to see if there is any changes or updates in products.
-
 > 1. Users can navigate to the product page and under each product a badge will be present with the text "new" if the product is new to the assortment.
-
 > b. As a frequent User, I want to double check or if there is any changes in opening hours.
-
 > 2. Users can find the up to date opening hours on the home page under "opening hours" and on contact page. 
 
 - ### Manual testing
    
 
 > * Testing of responsivness was done with help from Chrome dev tools, all responsive issues were found during coding process. Most of them solved during coding process. One issue still occurs, on smaller screens (less than 320px wide) the hamburger bar goes under the company name instead of next to it as supposed.
-
 > * All tests are done by myself and in total 4 family members and friends.
 
-> a. On home page the hover function was tested in the navbar and social media links - Passed
-
-> b. On home page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
-
-> c. On home page all social media links in footer tested to see if correct external link opens in a new tab when klicked - Passed
-
-> d. On home page all images and the google map was checked to see if they load as they should without issues - Passed
-
-> e. On product page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
-
-> f. On product page the hover function was tested in the navbar and social media links aswell as the "more info" buttons - Passed
-
-> g. On product page all social media links in the footer tested to see if correct external link open in a new tab when klicked - Passed
-
-> h. On product page all images was check to see if they load as they should without issues - Passed
-
-> i. On about page the hover function was tested in the navbar and social media links - Passed
-
-> j. On about page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
-
-> k. On about page it was checked that the image loaded as it should - Passed
-
-> l. On contact page the hover function was tested in the navbar, social media links and submit button - Passed
-
-> m. On contact page all links in the navbar was tested to see that the user gets to the correct page when klicked - Passed
-
-> n. On contact page the form was tested to check if Email Address is mandatory - Passed
-
+> a. On home page the hover function was tested in the navbar and social media links.
+> b. On home page all links in the navbar was tested to see that the user gets to the correct page when klicked.
+> c. On home page all social media links in footer tested to see if correct external link opens in a new tab when klicked.
+> d. On home page all images and the google map was checked to see if they load as they should without issues.
+> e. On product page all links in the navbar was tested to see that the user gets to the correct page when klicked.
+> f. On product page the hover function was tested in the navbar and social media links aswell as the "more info" buttons.
+> g. On product page all social media links in the footer tested to see if correct external link open in a new tab when klicked.
+> h. On product page all images was check to see if they load as they should without issues.
+> i. On about page the hover function was tested in the navbar and social media links.
+> j. On about page all links in the navbar was tested to see that the user gets to the correct page when klicked.
+> k. On about page it was checked that the image loaded as it should.
+> l. On contact page the hover function was tested in the navbar, social media links and submit button.
+> m. On contact page all links in the navbar was tested to see that the user gets to the correct page when klicked.
+> n. On contact page the form was tested to check if Email Address is mandatory.
 > o. On contact page the submit button was tested if it works - Works as designed = linked back to contact page)
-
-> p. On contact page the google maps link in the contact information section open google maps in a new tab - passed
-
+> p. On contact page the google maps link in the contact information section open google maps in a new tab.
 > * The website was tested on Internet Explorer, Safari, Microsoft Edge and Google Chrome browsers.
 > * The website was viewed and tested on different devices such as Laptop, Iphone 11, Desktop, Samsung S7, Xiaomi MI 10.
 
@@ -266,13 +224,9 @@ All credits are also in the code above each code snippet.
 #### Code
 
 > * [Bootstrap4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Used bootstrap throughout the whole project to mainly make the site responsive.
-
 > * Credit to our friends at w3schools for the Hero-image + hero text with styling - [Link](https://www.w3schools.com/howto/howto_css_hero_image.asp)
-  
 > * Credit to davidmacd for alt text for a img added in CSS - [link](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
-
 > * Credit to mdbootstrap for Google maps code - [Link](https://mdbootstrap.com/docs/b4/jquery/javascript/google-maps/)
-
 > * Credit to W3 Schools for form code - [Link](https://www.w3schools.com/bootstrap/bootstrap_forms.asp)
 
 #### Content
@@ -283,35 +237,20 @@ All credits are also in the code above each code snippet.
 #### Media
 
 > * Credit for picture from Jytte Elfferich at Pexels - [link](https://www.pexels.com/sv-se/foto/brod-mat-manniskor-mork-4881602/)
-
 > * Credit for picture from Mae Mu at Unsplash - [Link](https://unsplash.com/photos/Emhz3miT6mo)
-
 > * Credit for picture from Pixabay at Pexels - [Link](https://www.pexels.com/sv-se/foto/bakverk-brod-farsk-hander-263168/)
-
 > * Credit for picture from Bruno Thethe on Pexels [Link](https://www.pexels.com/sv-se/foto/brod-mat-bageri-mjol-1755785/)
-
 > * Credit for picture from Pixabay at pexels [Link](https://www.pexels.com/sv-se/foto/baka-bakad-bakverk-brod-209196/)
-
 > * Credit for picture from Pizabay at pexel - [Link](https://www.pexels.com/sv-se/foto/bakverk-brod-limpor-mat-209194/)
-
 > * Credit for picture from Macau Photo Agency at unsplash - [Link](https://unsplash.com/photos/Wii8pkMpEQk)
-
 > * Credit for picture from Macau Photo Agency at unsplash [Link](https://unsplash.com/photos/l6_Yyfl3O8s)
-
 > * Credit for picture from Macau Photo Agency at unsplash - [Link](https://unsplash.com/photos/kXiaeeleD8U)
-
 > * Credit for picture from Artur Rutkowski at unsplash - [Link](https://unsplash.com/photos/h2CPeqTzaaY)
-
 > * Credit for picture from Anton at unsplash - [Link](https://unsplash.com/photos/mJ2vG6C1JmQ)
-
 > * Credit for picture from Irina Babina at unsplash - [Link](https://unsplash.com/photos/Aop_-stOpnM)
-
 > * Credit for picture from MissMushroom at unsplah - [Link](https://unsplash.com/photos/wIm4CDia_1s)
-
 > * Credit for picture from Sergio Arze at unsplash - [Link](https://unsplash.com/photos/wJLGRhZsn5w)
-
 > * Credit for picture from DDP at unsplash - [Link](https://unsplash.com/photos/CceG6jpl19M)
-
 > * Credit  for picture from Maria Perez via Pexels - [Link](https://www.pexels.com/sv-se/foto/bakad-bakverk-blandad-brod-2128535/)
 
 
