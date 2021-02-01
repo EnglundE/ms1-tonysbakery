@@ -9,76 +9,76 @@
 
 This is my first milestone project at Code Institute, It's the main website of a imaginary bakery called Tony's Bakery. It is designed to be responsible and accessible on a range of devices, making it easy to navigate for potential customers.
 ------------
-* ## Project Goal
+## Project Goal
 
-  > Blockquote The project aims to create a static website for potential customers to find out that this bakery exists. What the bakery offers, where to find it and how to contact them.  
+  > The project aims to create a static website for potential customers to find out that this bakery exists. What the bakery offers, where to find it and how to contact them.  
 
   ---
 
 ## User stories to support Project Goal
   
   - ### First time Visitors Goals
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
+> 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
 
-    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
+> 2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
 
-    3. As a First Time Visitor, I want to look for social media links to check for reviews.
+> 3. As a First Time Visitor, I want to look for social media links to check for reviews.
 
-    4. As a First Time Visitor, I want to check out the opening hours and location.
+> 4. As a First Time Visitor, I want to check out the opening hours and location.
 
   - ### Returning Visitor Goals
-    1. As a Returning Visitor, I want to find information about products.
+> 1. As a Returning Visitor, I want to find information about products.
 
-    2. As a Returning Visitor, I want to find information about prices.
+> 2. As a Returning Visitor, I want to find information about prices.
 
-    3. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
+> 3. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
 
   - ### Frequent User Goals
-    1. As a Frequent User, I want to see if there is any changes or updates in products.
+> 1. As a Frequent User, I want to see if there is any changes or updates in products.
 
-    2. As a frequent User, I want to double check or if there is any changes in opening hours.
+> 2. As a frequent User, I want to double check or if there is any changes in opening hours.
 
-* ## Design
+## Design
 
-    - ### Colour Scheme
-      * The main colours used are a black and egg white color. These goes well together and the black color is mainly used as the background color for the navigation bar and footer. Egg white as backbround of the content parts. This scheme follows on all pages to create a similarity across the whole website. 
+  - ### Colour Scheme
+  > The main colours used are a black and egg white color. These goes well together and the black color is mainly used as the background color for the navigation bar and footer. Egg white as backbround of the content parts. This scheme follows on all pages to create a similarity across the whole website. 
 
-    - ### Typography
-      * The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Exo has a nice feeling with a elegant design.
+  - ### Typography
+  > The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Exo has a nice feeling with a elegant design.
 
-    - ### Imagery
-      * A large background hero image to catch the user's attention. Gives a clear idea what this page is about. Across the whole website there is pictures to illustrate the products to potential customers.
+  - ### Imagery
+  > A large background hero image to catch the user's attention. Gives a clear idea what this page is about. Across the whole website there is pictures to illustrate the products to potential customers.
 
-    - ### Structure
-      * The whole website is built to get the users easy access to what products the company offers and where the bakery is located. Therefore the website is neat with only the most relevant information present for the users. 
+  - ### Structure
+  > The whole website is built to get the users easy access to what products the company offers and where the bakery is located. Therefore the website is neat with only the most relevant information present for the users. 
 
-* ## Wireframes
-    - Desktop home Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-desktop-wireframe.jpg)
-      1. During the design work the idea was always to have a big eye catching hero image to make it clear what the website is about and to keep the rest of that page neat and clean.
-    - Mobile home page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-mobile-wireframe.png)
-      1. The idea on smaller screens was to keep the big hero image and make the page responsive without messing with the structure too much.
-    - Tablet home wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-tablet-wireframe.png)
-      1. No changes in the design work when it come to home page on tablets.
-    - Desktop product Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-desktop-wireframe.jpg)
-      1. Wanted to create a clean product page with only products with information about them and nothing else to distract the user.
-    - Mobile product page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-mobile-wireframe.png)
-      1. For mobile sizes the idea was to not squeeze in too many products on the current view, so only one product per row.
-    - Tablet product wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-tablet-wireframe.png)
-      1. Same idea as for desktop with same layout, 4 products on same row.
-    - Desktop about Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-desktop-wireframe.png)
-      1. Wanted to keep the about page not to long and complicated, just a small introduction to the company.
-    - Mobile about page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-mobile-wireframe.png)
-      1. No difference in design approach for mobile compared to desktop or tablet.
-    - Tablet about wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-tablet-wireframe.png)
-      1. 1. No difference in design approach for tablet compared to desktop or mobile.
-    - Desktop contact Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-desktop-wireframe.png)
-      1. Didnt want to put to much on the contact page and keep it neat with the contact header and then information with how to contact Tony's including a form. All centered on the screen.
-    - Mobile contact page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-mobile-wireframe.png)
-      1. The design approach was to have the content centered width wise with gaps on the sides to keep the design same across all devices.
-    - Tablet contact wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-tablet-wireframe.png)
-      1. The same approach for table as i had for the mobile regarding the design.
+## Wireframes
+>  * Desktop home Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-desktop-wireframe.jpg)
+    1. During the design work the idea was always to have a big eye catching hero image to make it clear what the website is about and to keep the rest of that page neat and clean.
+>  * Mobile home page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-mobile-wireframe.png)
+    1. The idea on smaller screens was to keep the big hero image and make the page responsive without messing with the structure too much.
+>  * Tablet home wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/home-tablet-wireframe.png)
+    1. No changes in the design work when it come to home page on tablets.
+>  * Desktop product Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-desktop-wireframe.jpg)
+    1. Wanted to create a clean product page with only products with information about them and nothing else to distract the user.
+>  * Mobile product page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-mobile-wireframe.png)
+    1. For mobile sizes the idea was to not squeeze in too many products on the current view, so only one product per row.
+>  * Tablet product wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/products-tablet-wireframe.png)
+    1. Same idea as for desktop with same layout, 4 products on same row.
+>  * Desktop about Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-desktop-wireframe.png)
+    1. Wanted to keep the about page not to long and complicated, just a small introduction to the company.
+>  * Mobile about page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-mobile-wireframe.png)
+    1. No difference in design approach for mobile compared to desktop or tablet.
+>  * Tablet about wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/about-tablet-wireframe.png)
+    1. No difference in design approach for tablet compared to desktop or mobile.
+>  * Desktop contact Page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-desktop-wireframe.png)
+    1. Didnt want to put to much on the contact page and keep it neat with the contact header and then information with how to contact Tony's including a form. All centered on the screen.
+>  * Mobile contact page Wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-mobile-wireframe.png)
+    1. The design approach was to have the content centered width wise with gaps on the sides to keep the design same across all devices.
+>  * Tablet contact wireframe - [View](https://github.com/EnglundE/ms1-tonysbakery/blob/master/assets/images/contact-tablet-wireframe.png)
+    1. The same approach for table as i had for the mobile regarding the design.
 
-* ## features  
+## features  
   1. Users are able to navigate to different pages on the website through the navigation panel on top of the page.
   2. A google map is addded in the bottom of home page for users to see the address of the bakery along with opening hours.
   3. A product page with prices and additional information about all products can be viewed.
