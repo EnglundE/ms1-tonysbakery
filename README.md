@@ -38,7 +38,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 
 ## Design
 
-- ### Colour Scheme
+- ### Color Scheme
 > The main colours used are a black and egg white color. These goes well together and the black color is mainly used as the background color for the navigation bar and footer. Egg white as backbround of the content parts. This scheme follows on all pages to create a similarity across the whole website. 
 
 - ### Typography
@@ -56,30 +56,30 @@ This is my first milestone project at Code Institute, It's the main website of a
 > * During the design work the idea was always to have a big eye catching hero image to make it clear what the website is about and to keep the rest of that page neat and clean.
 > 2. Mobile home page Wireframe
 > * The idea on smaller screens was to keep the big hero image and make the page responsive without messing with the structure too much.
-> 3. Tablet home wireframe
-> * No changes in the design work when it come to home page on tablets.
+> 3. Tablet home page wireframe
+> * The tablet idea was to keep the design as it looks on desktop as much as possible.
 > 4. Desktop product Page Wireframe
 > * Wanted to create a clean product page with only products with information about them and nothing else to distract the user.
 > 5. Mobile product page Wireframe
 > * For mobile sizes the idea was to not squeeze in too many products on the current view, so only one product per row.
-> 6. Tablet product wireframe
+> 6. Tablet product page wireframe
 > * Same idea as for desktop with same layout, 4 products on same row.
 > 7. Desktop about Page Wireframe
 > * Wanted to keep the about page not to long and complicated, just a small introduction to the company.
 > 8. Mobile about page Wireframe
 > * No difference in design approach for mobile compared to desktop or tablet.
-> 9. Tablet about wireframe
+> 9. Tablet about page wireframe
 > * No difference in design approach for tablet compared to desktop or mobile.
 > 10. Desktop contact Page Wireframe
 > * Didnt want to put to much on the contact page and keep it neat with the contact header and then information with how to contact Tony's including a form. All centered on the screen.
 > 11. Mobile contact page Wireframe
 > * The design approach was to have the content centered width wise with gaps on the sides to keep the design same across all devices.
-> 12. Tablet contact wireframe
+> 12. Tablet contact page wireframe
 > * The same approach for table as i had for the mobile regarding the design.
 
 ---
 
-## features  
+## Features  
 > 1. Users are able to navigate to different pages on the website through the navigation panel on top of the page.
 > 2. A google map is addded in the bottom of home page for users to see the address of the bakery along with opening hours.
 > 3. A product page with prices and additional information about all products can be viewed.
@@ -106,9 +106,9 @@ This is my first milestone project at Code Institute, It's the main website of a
 > - Google fonts were used to import Exo and Roboto font. Exo is used on all pages throughout the project.
 > 3. Font Awesome: [Link](https://fontawesome.com/)
 > - Font Awesome was used on all pages to add icons.
-> 4. JQuery:
+> 4. JQuery: [Link](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 > - JQuery came with Bootstrap to make the navbar responsive.
-> 5. Git:
+> 5. Git: [Link](https://github.com/)
 > - Git was used for version control by utilizing Visual Studio Code terminal to commit to Git and Push to GitHub.
 > 6. Github: [Link](https://github.com/)
 > - GitHub is used to store the projects code after being pushed from Git.
