@@ -131,34 +131,31 @@ This is my first milestone project at Code Institute, It's the main website of a
 
 - ### First time Visitors Goals
 > 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more.
-
->   a. When entering the site for the first time, there is an clean and easy to read navigation bar to go to the page of their choice. There is also a header in the naivagion section with the title of the website/Company that basically explains what the site is about.
-
->   b. The main points of the website is also made with the big hero image with the text "Bread made with only Flour, Water and Love" together with the header in the navigation bar.
-
->   c. To learn more about the company the user can use the navigation bar to get to the about page where information can be found.
->   d. The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
+> * When entering the site for the first time, there is an clean and easy to read navigation bar to go to the page of their choice. There is also a header in the naivagion section with the title of the website/Company that basically explains what the site is about.
+> * The main points of the website is also made with the big hero image with the text "Bread made with only Flour, Water and Love" together with the header in the navigation bar.
+> * To learn more about the company the user can use the navigation bar to get to the about page where information can be found.
+> * The user got two options to find opening hours and location, the first one is in the bottom of the main page there is the address, opening hours and a map with the address pointed out. The second one can be found by using the navigation button "Contact" to get the same information there.
 > 2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find the content im looking for.
->   a. The the top of each page there is a clean navigation bar with a link describing what page they ends up on.
->   b. Each page got the navigation bar located at the same place and with same design to make it easy to find back to it for further navigation. The navigation bar will also show on which page you are on right now.
+> * The the top of each page there is a clean navigation bar with a link describing what page they ends up on.
+> * Each page got the navigation bar located at the same place and with same design to make it easy to find back to it for further navigation. The navigation bar will also show on which page you are on right now.
 > 3. As a First Time Visitor, I want to look for social media links to check for reviews.
->   a. On each page, the social media links will be in the bottom of the page with a clear title and proper icon for which social media you is taken to. This This in a stand up blue colour
+> * On each page, the social media links will be in the bottom of the page with a clear title and proper icon for which social media you is taken to. This This in a stand up blue colour
 > 4. As a First Time Visitor, I want to check out the opening hours and location.
->   a. The user got two options to find opening hours and location. In the bottom of the main page there is address written and also a google map below that with the address pinned. The other option is on the contact page, there is the address written again with an anchor link that takes the user to the address on google maps in a new tab.
+> * The user got two options to find opening hours and location. In the bottom of the main page there is address written and also a google map below that with the address pinned. The other option is on the contact page, there is the address written again with an anchor link that takes the user to the address on google maps in a new tab.
 
 - ### Returning Visitor Goals  
-> a. As a Returning Visitor, I want to find information about products.
-> 1. Users can find the product page from the top navigation bar. On product page each product got a picture, a short information what kind of bread it is. There is also a more info button to read more about the product and ingredients.
-> b. As a Returning Visitor, I want to find information about prices.
-> 1. On the product page the price for each product is specified under each product image in EUR.
-> c. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
-> 1. Users can find the address and opening hours on the home page of the website, for vising the bakery itself. The other way to contact Tony's is to use the navigation tabs at the top to navigate to the contact page. There the users can find contact information such as phone number, email address and a contact form.
+> 1. As a Returning Visitor, I want to find information about products.
+> * Users can find the product page from the top navigation bar. On product page each product got a picture, a short information what kind of bread it is. There is also a more info button to read more about the product and ingredients.
+> 2. As a Returning Visitor, I want to find information about prices.
+> * On the product page the price for each product is specified under each product image in EUR.
+> 3. As a Returning Visitor, I want to find the best way to get in contact with the bakery with my questions i have.
+> * Users can find the address and opening hours on the home page of the website, for vising the bakery itself. The other way to contact Tony's is to use the navigation tabs at the top to navigate to the contact page. There the users can find contact information such as phone number, email address and a contact form.
 
 - ### Frequent User Goals
-> a. As a Frequent User, I want to see if there is any changes or updates in products.
-> 1. Users can navigate to the product page and under each product a badge will be present with the text "new" if the product is new to the assortment.
-> b. As a frequent User, I want to double check or if there is any changes in opening hours.
-> 2. Users can find the up to date opening hours on the home page under "opening hours" and on contact page. 
+> 1. As a Frequent User, I want to see if there is any changes or updates in products.
+> * Users can navigate to the product page and under each product a badge will be present with the text "new" if the product is new to the assortment.
+> 2. As a frequent User, I want to double check or if there is any changes in opening hours.
+> * Users can find the up to date opening hours on the home page under "opening hours" and on contact page. 
 
 - ### Manual testing
    
