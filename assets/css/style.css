@@ -18,6 +18,16 @@ body, html {
     font-weight: 600;
 }
 
+ul.nav a:hover {
+    color: #007bff !important;
+    filter:brightness(1.2)
+}
+
+.navbar-brand:hover {
+    color: #007bff !important;
+    filter:brightness(1.2)
+}
+
 .navbar-light .navbar-brand {
     font-weight: 500;
     color: #fafafa;
@@ -44,7 +54,8 @@ body, html {
 .active {
     text-decoration: underline;
     color: #007bff !important;
-    filter: contrast(90%);
+    filter:brightness(1.2)
+    
     
 }
 
@@ -323,6 +334,11 @@ button .navbar-toggler-icon {
 max-width: 600px;
 }
 
+.google-link {
+    color: #007bff !important;
+    filter:brightness(1.2)
+}
+
 /* Contact info  /*/
 
 /* Feedback form */
@@ -342,10 +358,6 @@ max-width: 600px;
     margin-bottom: 14px;
 }
 
-.google-link {
-    filter: contrast(85%);
-}
-
 /* Feedback form  /*/
 
 .contact-bg-color {
@@ -359,6 +371,11 @@ max-width: 600px;
 .fab {
     font-size: 21px;
     color: #fafafa;
+}
+
+.fab:hover {
+    color: #007bff !important;
+    filter:brightness(1.2)
 }
 
 .position-right {
