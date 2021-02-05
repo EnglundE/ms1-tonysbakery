@@ -54,7 +54,6 @@ button .navbar-toggler-icon {
 
 /* Navigation  /*/
 
-
 /* Home page */
 /* The hero image + hero text */
 
@@ -270,8 +269,9 @@ button .navbar-toggler-icon {
     max-width: 600px;
 }
 
-h4 {
-    text-align: left;
+.image-padding {
+    padding-right: 0;
+    padding-left: 0;
 }
 
 .about-padding {
