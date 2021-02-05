@@ -339,6 +339,7 @@ max-width: 600px;
 .btn-success {
     color: black;
     font-weight: 500;
+    margin-bottom: 14px;
 }
 
 .google-link {
