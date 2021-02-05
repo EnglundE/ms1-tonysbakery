@@ -357,7 +357,7 @@ max-width: 600px;
 
 .fab {
     font-size: 21px;
-    filter: contrast(90%);
+    color: #fafafa;
 }
 
 .position-right {
