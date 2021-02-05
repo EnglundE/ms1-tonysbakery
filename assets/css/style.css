@@ -341,6 +341,10 @@ max-width: 600px;
     font-weight: 500;
 }
 
+.google-link {
+    filter: contrast(85%);
+}
+
 /* Feedback form  /*/
 
 .contact-bg-color {
