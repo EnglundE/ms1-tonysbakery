@@ -53,8 +53,8 @@ ul.nav a:hover {
 
 .active {
     text-decoration: underline;
-    color: #007bff !important;
-    filter:brightness(1.2)
+    color: #ff2600 !important;
+    filter: brightness(1.2); 
     
     
 }
