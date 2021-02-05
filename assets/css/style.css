@@ -20,14 +20,10 @@ body, html {
 
 ul.nav a:hover {
     color: #007bff !important;
-    filter: brightness(1.2); 
-    filter: contrast(1.4)
 }
 
 .navbar-brand:hover {
     color: #007bff !important;
-    filter: brightness(1.2); 
-    filter: contrast(1.4)
 }
 
 .navbar-light .navbar-brand {
@@ -55,8 +51,7 @@ ul.nav a:hover {
 
 .active {
     text-decoration: underline;
-    color: #ff2600 !important;
-    filter: contrast()
+    color: #007bff !important;
     
     
 }
@@ -377,8 +372,6 @@ max-width: 600px;
 
 .fab:hover {
     color: #007bff !important;
-    filter: brightness(1.2); 
-    filter: contrast(1.4)
 }
 
 .position-right {
