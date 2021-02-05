@@ -36,6 +36,11 @@ This is my first milestone project at Code Institute, It's the main website of a
 > 1. As a Frequent User, I want to see if there is any changes or updates in products.
 > 2. As a frequent User, I want to double check or if there is any changes in opening hours.
 
+- ### Site Owner Goals
+> 1. As a Site Owner, I want my bakery to be exposed to the local community.
+> 2. As a Site Owner, I want to expose my produts to the local community.
+> 3. As a Site Owner, I want to highlight the location and contact information for users. 
+
 ## Design
 
 - ### Color Scheme
@@ -126,7 +131,8 @@ This is my first milestone project at Code Institute, It's the main website of a
 > * W3C CSS Validator - [Link](https://jigsaw.w3.org/css-validator/validator.html.en)
 
 > * (WAVE Web Accessibility Evaluation Tool) was used to find contrast and other issues from a accessibility point of view in the testing part of the project to find issues to correct.[Link](https://wave.webaim.org/)
-> * Chrome dev tool was used to test the websites accesibility, SEO, Best practices and Performance.
+> * Chrome dev tool was also used to test the websites accesibility, SEO, Best practices and Performance.
+> Note that WAVE Web Accessibility Evaluation Tool doesnt indicate any contrast issues as Lighthouse in Chrome Dev Tool does.
 
 
 - ### Testing of User Stories from the User Story Section
@@ -158,6 +164,14 @@ This is my first milestone project at Code Institute, It's the main website of a
 > * Users can navigate to the product page and under each product a badge will be present with the text "new" if the product is new to the assortment.
 > 2. As a frequent User, I want to double check or if there is any changes in opening hours.
 > * Users can find the up to date opening hours on the home page under "opening hours" and on contact page. 
+
+- ### Site Owner Goals
+> 1. As a Site Owner, I want my bakery to be exposed to the local community.
+> * The site is up and running and can be found.
+> 2. As a Site Owner, I want to expose my produts to the local community.
+> * In the product page all of the bakerys products is exposed with additional information and price.
+> 3. As a Site Owner, I want to highlight the location and contact information for users.
+> * At the home page both location and opening hours is shown, as well as in contact page.
 
 - ### Manual testing
    
