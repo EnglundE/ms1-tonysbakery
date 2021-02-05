@@ -44,6 +44,8 @@ body, html {
 .active {
     text-decoration: underline;
     color: #007bff !important;
+    filter: contrast(90%);
+    
 }
 
 button .navbar-toggler-icon {
@@ -350,8 +352,8 @@ max-width: 600px;
 /* Footer */
 
 .fab {
-    font-size: 20px;
-    filter: contrast(85%);
+    font-size: 21px;
+    filter: contrast(90%);
 }
 
 .position-right {
