@@ -132,7 +132,7 @@ This is my first milestone project at Code Institute, It's the main website of a
 
 > * (WAVE Web Accessibility Evaluation Tool) was used to find contrast and other issues from a accessibility point of view in the testing part of the project to find issues to correct.[Link](https://wave.webaim.org/)
 > * Chrome dev tool was also used to test the websites accesibility, SEO, Best practices and Performance.
-> Note that WAVE Web Accessibility Evaluation Tool doesnt indicate any contrast issues as Lighthouse in Chrome Dev Tool does.
+
 
 
 - ### Testing of User Stories from the User Story Section
@@ -252,6 +252,7 @@ All credits are also in the code above each code snippet.
 > * Credit to mdbootstrap for Google maps code - [Link](https://mdbootstrap.com/docs/b4/jquery/javascript/google-maps/)
 > * Credit to W3 Schools for form code - [Link](https://www.w3schools.com/bootstrap/bootstrap_forms.asp)
 
+
 #### Content
 
 > * All content was written by the developer.
@@ -280,6 +281,7 @@ All credits are also in the code above each code snippet.
 #### Styling 
 
 > * Credit to Stackoverflow - [Link](https://stackoverflow.com/questions/5817233/align-button-at-the-bottom-of-div-using-css)
+> * Credit to stackoverflow for navbar-toggler - [link](https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color)
 
 ---
 

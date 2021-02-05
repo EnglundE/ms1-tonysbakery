@@ -49,15 +49,21 @@ ul.nav a:hover {
     border-radius: .25rem;
 }
 
+/*Credit to stackoverflow for below code: https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color */
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(250,250,250, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+  
+  /*Credit to stackoverflow for below code: https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color */
+  .custom-toggler.navbar-toggler {
+    border-color: rgb(250, 250, 250);
+  } 
+
 .active {
     text-decoration: underline;
     color: #007bff !important;
     
     
-}
-
-button .navbar-toggler-icon {
-    color: white;
 }
 
 /* Navigation  /*/
@@ -329,11 +335,6 @@ button .navbar-toggler-icon {
 
 .contact-info {
 max-width: 600px;
-}
-
-.google-link {
-    color: #007bff !important;
-    filter:brightness(1.2)
 }
 
 /* Contact info  /*/
